@@ -1,0 +1,32 @@
+﻿spy = true
+limit_operations = 7
+money = 30.0
+gain = 30.0
+show_details_monitor = true
+cryptos = [
+  "ETHUSDT", "AVAXUSDT", "ADAUSDT", "LINKUSDT", "DOTUSDT",
+  "ATOMUSDT", "GRTUSDT", "SANDUSDT", "MANAUSDT", "ALGOUSDT",
+  "INJUSDT", "NEARUSDT", "SUIUSDT", "UNIUSDT", "ENAUSDT", "SOLUSDT",
+  "XRPUSDT", "BNBUSDT", "DOGEUSDT", "TRXUSDT",
+  "BCHUSDT", "TONUSDT", "LTCUSDT", "XMRUSDT", "PIUSDT",
+  "AAVEUSDT", "TAOUSDT", "APTUSDT", "CROUSDT", "XDCUSDT",
+  "OKBUSDT", "ICPUSDT", "ETCUSDT", "KASUSDT", "TIAUSDT",
+  "ARBUSDT", "FILUSDT", "ATOMUSDT", "JUPUSDT", "LDOUSDT",
+  "VIRTUALUSDT", "INJUSDT", "QNTUSDT", "OPUSDT",
+  "STXUSDT", "SUSDT", "IPUSDT", "SEIUSDT", "PAXGUSDT",
+  "FLRUSDT", "IMXUSDT", "WIFUSDT", "SPXUSDT",
+  "DEXEUSDT", "CRVUSDT", "ZECUSDT", "CAKEUSDT",
+  "ENSUSDT", "RAYUSDT", "GALAUSDT", "THETAUSDT",
+  "JASMYUSDT", "XAUTUSDT", "COREUSDT", "NEXOUSDT",
+  "IOTAUSDT", "SANDUSDT", "PENDLEUSDT",
+  "BCHSVUSDT", "BTTUSDT", "HNTUSDT"
+]
+
+[binance]
+base_url = "https://api.binance.com/api/v3"
+future_url = "https://fapi.binance.com/fapi/v1"
+future_url_v2 = "https://fapi.binance.com/fapi/v2"
+interval = "1h"
+limit = 271
+leverage = 1
+decide = false
