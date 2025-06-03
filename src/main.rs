@@ -15,7 +15,7 @@ mod status_trade;
 mod spy;
 mod swap;
 mod crypto_candidate;
-mod chat_gpt;
+mod open_ai;
 
 use actix_cors::Cors;
 use actix_web::{App, HttpServer, http};

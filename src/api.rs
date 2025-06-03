@@ -8,10 +8,9 @@ use crate::schedule::get_scheduler;
 use crate::blockchain::{get_blockchain_for, get_last_trade_for, get_all_symbols, BLOCKCHAIN};
 use crate::spy::spy_cryptos;
 use crate::monitor::monitor_cryptos;
-use crate::chat_gpt::send_to_assistant;
+use crate::open_ai::send_to_assistant;
 
 use std::fmt::Write;
-use serde::Deserialize;
 
 #[post("/trades/start")]
 pub async fn post_trades_start() -> impl Responder {
@@ -207,20 +206,14 @@ pub async fn get_trades_monitor(query: web::Query<std::collections::HashMap<Stri
     }
 }
 
-#[derive(Deserialize)]
-struct AssistantRequest {
-    symbol: String,
-}
-
 #[post("/monitors/assistant")]
-pub async fn post_monitor_assistant(req: web::Json<AssistantRequest>) -> impl Responder {
-    let symbol = req.symbol.to_uppercase();
-    let pergunta = format!("Qual a sua análise sobre esta cripto? {}", symbol);
-
-    match send_to_assistant(&pergunta).await {
+pub async fn post_monitor_assistant() -> impl Responder {
+    match send_to_assistant().await {
         Ok(resposta) => {
-            println!("Resposta do ChatGPT para {}:\n{}", symbol, resposta.content);
-            HttpResponse::Ok().json(resposta)
+            println!("Resposta do ChatGPT:\n{}", resposta.content);
+            HttpResponse::Ok().json(serde_json::json!({
+                "response": resposta.content
+            }))
         }
         Err(err) => {
             eprintln!("Erro ao chamar ChatGPT: {}", err);
@@ -228,3 +221,4 @@ pub async fn post_monitor_assistant(req: web::Json<AssistantRequest>) -> impl Re
         }
     }
 }
+

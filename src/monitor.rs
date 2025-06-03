@@ -61,18 +61,18 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
         }
     }
 
-    fn calc_log_ampl(min: f64, max: f64) -> f64 {
+    fn calc_linear_ampl(min: f64, max: f64) -> f64 {
         if min <= 0.0 || max <= 0.0 || min >= max {
             return 0.0;
         }
-        (max.ln() - min.ln()) * 100.0
+        ((max - min) / min) * 100.0
     }
 
-    fn calc_log_position(price: f64, min: f64, max: f64) -> f64 {
+    fn calc_linear_position(price: f64, min: f64, max: f64) -> f64 {
         if min <= 0.0 || max <= 0.0 || price <= 0.0 || min >= max {
             return 0.0;
         }
-        ((price.ln() - min.ln()) / (max.ln() - min.ln())) * 100.0
+        ((price - min) / (max - min)) * 100.0
     }
 
     fn extract_column(values: &[(f64, f64, f64, f64, f64, f64, f64, f64, f64, f64)], index: usize) -> Vec<f64> {
@@ -140,8 +140,8 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
             parse(&t.performance_24),
             parse(&t.performance_btc_24),
             parse(&t.amplitude_ma_200),
-            calc_log_ampl(min, max),
-            calc_log_position(current, min, max),
+            calc_linear_ampl(min, max),
+            calc_linear_position(current, min, max),
             parse(&t.volume),
             parse(&t.quote_asset_volume),
             parse(&t.number_of_trades),
@@ -150,7 +150,6 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
         )
     }).collect();
 
-    // extrai colunas e encontra índices únicos
     let perf_col = extract_column(&values, 0);
     let btc_col = extract_column(&values, 1);
     let ma200_col = extract_column(&values, 2);
