@@ -1,0 +1,1478 @@
+[
+  {
+    "symbol": "ETH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "name": "Ethereum",
+    "description": "Ethereum (ETH) is a cryptocurrency . Ethereum has a current supply of 120,722,947.78116943. The last known price of Ethereum is 2,608.05381598 USD and is down -0.14 over the last 24 hours. It is currently trading on 10329 active market(s) with $18,697,831,310.62 traded over the last 24 hours. More information can be found at https://www.ethereum.org/.",
+    "date_added": "2015-08-07T00:00:00.000Z",
+    "website": "https://www.ethereum.org/",
+    "technical_doc": "https://github.com/ethereum/wiki/wiki/White-Paper"
+  },
+  {
+    "symbol": "AVAX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+    "name": "Avalanche",
+    "description": "Avalanche (AVAX) is a cryptocurrency launched in 2020. Avalanche has a current supply of 456,585,220.7450086 with 421,582,520.7450086 in circulation. The last known price of Avalanche is 20.18231016 USD and is down -4.94 over the last 24 hours. It is currently trading on 919 active market(s) with $320,349,270.64 traded over the last 24 hours. More information can be found at https://avax.network/.",
+    "date_added": "2020-07-13T00:00:00.000Z",
+    "website": "https://avax.network/",
+    "technical_doc": "https://www.avalabs.org/whitepapers"
+  },
+  {
+    "symbol": "ADA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+    "name": "Cardano",
+    "description": "Cardano (ADA) is a cryptocurrency launched in 2017. Cardano has a current supply of 44,994,593,606.780862 with 35,342,129,025.24856 in circulation. The last known price of Cardano is 0.66763854 USD and is down -2.20 over the last 24 hours. It is currently trading on 1528 active market(s) with $519,834,320.08 traded over the last 24 hours. More information can be found at https://www.cardano.org.",
+    "date_added": "2017-10-01T00:00:00.000Z",
+    "website": "https://www.cardano.org",
+    "technical_doc": "https://docs.cardano.org/en/latest/"
+  },
+  {
+    "symbol": "LINK",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "name": "Chainlink",
+    "description": "Chainlink (LINK) is a cryptocurrency and operates on the Ethereum platform. Chainlink has a current supply of 1,000,000,000 with 657,099,970.45278671 in circulation. The last known price of Chainlink is 13.78887748 USD and is down -2.80 over the last 24 hours. It is currently trading on 2020 active market(s) with $255,544,509.71 traded over the last 24 hours. More information can be found at https://chain.link/.",
+    "date_added": "2017-09-20T00:00:00.000Z",
+    "website": "https://chain.link/",
+    "technical_doc": "https://chain.link/whitepaper"
+  },
+  {
+    "symbol": "DOT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+    "name": "Polkadot",
+    "description": "Polkadot (DOT) is a cryptocurrency . Polkadot has a current supply of 1,584,180,934.03976502. The last known price of Polkadot is 4.00996061 USD and is down -3.39 over the last 24 hours. It is currently trading on 916 active market(s) with $176,792,795.19 traded over the last 24 hours. More information can be found at https://polkadot.com.",
+    "date_added": "2020-08-19T00:00:00.000Z",
+    "website": "https://polkadot.com",
+    "technical_doc": "https://polkadot.com/papers/Polkadot-whitepaper.pdf"
+  },
+  {
+    "symbol": "ATOM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "name": "Cosmos",
+    "description": "Cosmos (ATOM) is a cryptocurrency . Cosmos has a current supply of 390,934,204. The last known price of Cosmos is 4.27145275 USD and is down -3.71 over the last 24 hours. It is currently trading on 883 active market(s) with $92,958,299.74 traded over the last 24 hours. More information can be found at https://cosmos.network/.",
+    "date_added": "2019-03-14T00:00:00.000Z",
+    "website": "https://cosmos.network/",
+    "technical_doc": "https://cosmos.network/resources/whitepaper"
+  },
+  {
+    "symbol": "GRT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+    "name": "The Graph",
+    "description": "The Graph (GRT) is a cryptocurrency launched in 2018and operates on the Ethereum platform. The Graph has a current supply of 10,800,262,823.318213 with 9,850,203,366.18509 in circulation. The last known price of The Graph is 0.09462943 USD and is down -4.02 over the last 24 hours. It is currently trading on 563 active market(s) with $31,416,496.05 traded over the last 24 hours. More information can be found at https://thegraph.com.",
+    "date_added": "2020-12-17T00:00:00.000Z",
+    "website": "https://thegraph.com",
+    "technical_doc": "https://thegraph.com/docs/"
+  },
+  {
+    "symbol": "SAND",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+    "name": "The Sandbox",
+    "description": "The Sandbox (SAND) is a cryptocurrency and operates on the Ethereum platform. The Sandbox has a current supply of 3,000,000,000 with 2,538,289,190.22332254 in circulation. The last known price of The Sandbox is 0.27359626 USD and is down -3.29 over the last 24 hours. It is currently trading on 657 active market(s) with $45,383,662.51 traded over the last 24 hours. More information can be found at https://www.sandbox.game/en/.",
+    "date_added": "2020-08-05T00:00:00.000Z",
+    "website": "https://www.sandbox.game/en/",
+    "technical_doc": "http://www.sandbox.game/The_Sandbox_Whitepaper_2020.pdf"
+  },
+  {
+    "symbol": "MANA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+    "name": "Decentraland",
+    "description": "Decentraland (MANA) is a cryptocurrency and operates on the Ethereum platform. Decentraland has a current supply of 2,193,179,327.32014624 with 1,969,729,010.36875697 in circulation. The last known price of Decentraland is 0.27580702 USD and is down -3.11 over the last 24 hours. It is currently trading on 576 active market(s) with $24,949,189.90 traded over the last 24 hours. More information can be found at https://decentraland.org/.",
+    "date_added": "2017-09-17T00:00:00.000Z",
+    "website": "https://decentraland.org/",
+    "technical_doc": "https://decentraland.org/whitepaper.pdf"
+  },
+  {
+    "symbol": "ALGO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+    "name": "Algorand",
+    "description": "Algorand (ALGO) is a cryptocurrency launched in 2019. Algorand has a current supply of 10,000,000,000 with 8,614,428,336.791396 in circulation. The last known price of Algorand is 0.19077103 USD and is down -4.30 over the last 24 hours. It is currently trading on 505 active market(s) with $46,841,650.98 traded over the last 24 hours. More information can be found at http://algorand.foundation.",
+    "date_added": "2019-06-20T00:00:00.000Z",
+    "website": "http://algorand.foundation",
+    "technical_doc": "https://developer.algorand.org/"
+  },
+  {
+    "symbol": "INJ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png",
+    "name": "Injective",
+    "description": "Injective (INJ) is a cryptocurrency and operates on the Ethereum platform. Injective has a current supply of 100,000,000 with 99,970,935.41 in circulation. The last known price of Injective is 12.25753799 USD and is down -3.73 over the last 24 hours. It is currently trading on 482 active market(s) with $117,134,630.49 traded over the last 24 hours. More information can be found at https://injective.com.",
+    "date_added": "2020-09-29T00:00:00.000Z",
+    "website": "https://injective.com",
+    "technical_doc": "https://docs.injectiveprotocol.com/#introduction"
+  },
+  {
+    "symbol": "NEAR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+    "name": "NEAR Protocol",
+    "description": "NEAR Protocol (NEAR) is a cryptocurrency launched in 2020. NEAR Protocol has a current supply of 1,253,693,301 with 1,220,618,003 in circulation. The last known price of NEAR Protocol is 2.43485784 USD and is down -3.82 over the last 24 hours. It is currently trading on 520 active market(s) with $138,456,043.75 traded over the last 24 hours. More information can be found at https://near.org/.",
+    "date_added": "2020-08-11T00:00:00.000Z",
+    "website": "https://near.org/",
+    "technical_doc": "https://near.org/papers/the-official-near-white-paper"
+  },
+  {
+    "symbol": "SUI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
+    "name": "Sui",
+    "description": "Sui (SUI) is a cryptocurrency . Sui has a current supply of 10,000,000,000 with 3,396,671,135.3644433 in circulation. The last known price of Sui is 3.19018376 USD and is down -2.70 over the last 24 hours. It is currently trading on 672 active market(s) with $697,434,103.54 traded over the last 24 hours. More information can be found at https://sui.io/#.",
+    "date_added": "2022-07-12T08:03:11.000Z",
+    "website": "https://sui.io/#",
+    "technical_doc": "https://docs.sui.io/"
+  },
+  {
+    "symbol": "UNI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "name": "Uniswap",
+    "description": "Uniswap (UNI) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Uniswap has a current supply of 1,000,000,000 with 628,688,836.71 in circulation. The last known price of Uniswap is 6.29904966 USD and is down -5.94 over the last 24 hours. It is currently trading on 1240 active market(s) with $390,672,718.71 traded over the last 24 hours. More information can be found at https://uniswap.org/blog/uni/.",
+    "date_added": "2020-09-17T00:00:00.000Z",
+    "website": "https://uniswap.org/blog/uni/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "PI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/35697.png",
+    "name": "Pi",
+    "description": "Pi (PI) is a cryptocurrency launched in 2019. Pi has a current supply of 100,000,000,000 with 7,318,437,437.327004 in circulation. The last known price of Pi is 0.64463995 USD and is down -0.84 over the last 24 hours. It is currently trading on 57 active market(s) with $57,823,718.42 traded over the last 24 hours. More information can be found at https://minepi.com.",
+    "date_added": "2025-02-11T07:16:10.000Z",
+    "website": "https://minepi.com",
+    "technical_doc": "https://minepi.com/white-paper/"
+  },
+  {
+    "symbol": "XRP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+    "name": "XRP",
+    "description": "XRP (XRP) is a cryptocurrency . XRP has a current supply of 99,986,084,900 with 58,759,724,027 in circulation. The last known price of XRP is 2.204181 USD and is down -2.13 over the last 24 hours. It is currently trading on 1622 active market(s) with $2,087,123,545.93 traded over the last 24 hours. More information can be found at https://xrpl.org/.",
+    "date_added": "2013-08-04T00:00:00.000Z",
+    "website": "https://xrpl.org/",
+    "technical_doc": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+  },
+  {
+    "symbol": "BNB",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "BNB",
+    "description": "BNB (BNB) is a cryptocurrency . BNB has a current supply of 140,887,321.27. The last known price of BNB is 664.62038585 USD and is up 0.44 over the last 24 hours. It is currently trading on 2564 active market(s) with $1,559,882,733.55 traded over the last 24 hours. More information can be found at https://bnbchain.org/en.",
+    "date_added": "2017-07-25T00:00:00.000Z",
+    "website": "https://bnbchain.org/en",
+    "technical_doc": null
+  },
+  {
+    "symbol": "DOGE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "name": "Dogecoin",
+    "description": "Dogecoin (DOGE) is a cryptocurrency . Users are able to generate DOGE through the process of mining. Dogecoin has a current supply of 149,550,246,383.70523. The last known price of Dogecoin is 0.18838285 USD and is down -3.18 over the last 24 hours. It is currently trading on 1233 active market(s) with $791,270,447.07 traded over the last 24 hours. More information can be found at http://dogecoin.com/.",
+    "date_added": "2013-12-15T00:00:00.000Z",
+    "website": "http://dogecoin.com/",
+    "technical_doc": "https://github.com/dogecoin/dogecoin/blob/master/README.md"
+  },
+  {
+    "symbol": "TRX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+    "name": "TRON",
+    "description": "TRON (TRX) is a cryptocurrency . TRON has a current supply of 94,857,294,278.668018 with 94,857,288,906.189088 in circulation. The last known price of TRON is 0.27314616 USD and is up 0.67 over the last 24 hours. It is currently trading on 1183 active market(s) with $469,086,465.99 traded over the last 24 hours. More information can be found at https://trondao.org/.",
+    "date_added": "2017-09-13T00:00:00.000Z",
+    "website": "https://trondao.org/",
+    "technical_doc": "https://developers.tron.network/docs"
+  },
+  {
+    "symbol": "BCH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+    "name": "Bitcoin Cash",
+    "description": "Bitcoin Cash (BCH) is a cryptocurrency . Users are able to generate BCH through the process of mining. Bitcoin Cash has a current supply of 19,879,150. The last known price of Bitcoin Cash is 400.9652102 USD and is down -0.58 over the last 24 hours. It is currently trading on 1023 active market(s) with $213,592,389.92 traded over the last 24 hours. More information can be found at http://bch.info.",
+    "date_added": "2017-07-23T00:00:00.000Z",
+    "website": "http://bch.info",
+    "technical_doc": "https://bch.info/bitcoin.pdf"
+  },
+  {
+    "symbol": "TON",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+    "name": "Toncoin",
+    "description": "Toncoin (TON) is a cryptocurrency . Toncoin has a current supply of 5,131,687,665.26273686 with 2,465,744,785.04020464 in circulation. The last known price of Toncoin is 3.16548893 USD and is down -0.60 over the last 24 hours. It is currently trading on 746 active market(s) with $159,549,949.68 traded over the last 24 hours. More information can be found at https://ton.org/.",
+    "date_added": "2021-08-26T13:40:22.000Z",
+    "website": "https://ton.org/",
+    "technical_doc": "https://ton.org/whitepaper.pdf"
+  },
+  {
+    "symbol": "LTC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "name": "Litecoin",
+    "description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 84,000,000 with 75,930,058.23347135 in circulation. The last known price of Litecoin is 88.09528459 USD and is down -2.02 over the last 24 hours. It is currently trading on 1374 active market(s) with $324,992,443.92 traded over the last 24 hours. More information can be found at https://litecoin.org/.",
+    "date_added": "2013-04-28T00:00:00.000Z",
+    "website": "https://litecoin.org/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "XMR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+    "name": "Monero",
+    "description": "Monero (XMR) is a cryptocurrency . Users are able to generate XMR through the process of mining. Monero has a current supply of 18,446,744.07370955. The last known price of Monero is 314.07906707 USD and is down -9.04 over the last 24 hours. It is currently trading on 321 active market(s) with $96,747,478.23 traded over the last 24 hours. More information can be found at https://www.getmonero.org/.",
+    "date_added": "2014-05-21T00:00:00.000Z",
+    "website": "https://www.getmonero.org/",
+    "technical_doc": "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf"
+  },
+  {
+    "symbol": "AAVE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "name": "Aave",
+    "description": "Aave (AAVE) is a cryptocurrency and operates on the Ethereum platform. Aave has a current supply of 16,000,000 with 15,154,291.18418664 in circulation. The last known price of Aave is 263.98901266 USD and is down -1.07 over the last 24 hours. It is currently trading on 1088 active market(s) with $424,218,947.79 traded over the last 24 hours. More information can be found at https://aave.com/.",
+    "date_added": "2020-10-02T00:00:00.000Z",
+    "website": "https://aave.com/",
+    "technical_doc": "https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf"
+  },
+  {
+    "symbol": "TAO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png",
+    "name": "Bittensor",
+    "description": "Bittensor (TAO) is a cryptocurrency launched in 2021. Bittensor has a current supply of 8,793,084. The last known price of Bittensor is 381.86456951 USD and is down -2.29 over the last 24 hours. It is currently trading on 155 active market(s) with $92,727,010.63 traded over the last 24 hours. More information can be found at https://bittensor.com.",
+    "date_added": "2023-03-06T05:20:00.000Z",
+    "website": "https://bittensor.com",
+    "technical_doc": "https://drive.google.com/file/d/1VnsobL6lIAAqcA1_Tbm8AYIQscfJV4KU/view?usp=sharing"
+  },
+  {
+    "symbol": "APT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png",
+    "name": "Aptos",
+    "description": "Aptos (APT) is a cryptocurrency launched in 2022. Aptos has a current supply of 1,150,462,520.0127006 with 631,065,793.102426 in circulation. The last known price of Aptos is 4.78678225 USD and is down -3.81 over the last 24 hours. It is currently trading on 512 active market(s) with $97,223,800.91 traded over the last 24 hours. More information can be found at https://aptosfoundation.org.",
+    "date_added": "2022-10-19T01:50:25.000Z",
+    "website": "https://aptosfoundation.org",
+    "technical_doc": "https://aptosfoundation.org/whitepaper"
+  },
+  {
+    "symbol": "CRO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+    "name": "Cronos",
+    "description": "Cronos (CRO) is a cryptocurrency . Cronos has a current supply of 97,543,210,869 with 29,873,070,435.910053 in circulation. The last known price of Cronos is 0.1002501 USD and is down -2.76 over the last 24 hours. It is currently trading on 289 active market(s) with $24,514,461.41 traded over the last 24 hours. More information can be found at https://cronos.org/.",
+    "date_added": "2018-12-14T00:00:00.000Z",
+    "website": "https://cronos.org/",
+    "technical_doc": "https://whitepaper.cronos.org/"
+  },
+  {
+    "symbol": "OKB",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
+    "name": "OKB",
+    "description": "OKB (OKB) is a cryptocurrency and operates on the Ethereum platform. OKB has a current supply of 300,000,000 with 60,000,000 in circulation. The last known price of OKB is 49.94968709 USD and is down -0.32 over the last 24 hours. It is currently trading on 141 active market(s) with $4,566,805.32 traded over the last 24 hours. More information can be found at https://www.okx.com/.",
+    "date_added": "2019-04-30T00:00:00.000Z",
+    "website": "https://www.okx.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ICP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png",
+    "name": "Internet Computer",
+    "description": "Internet Computer (ICP) is a cryptocurrency launched in 2021. Internet Computer has a current supply of 533,774,022.22714845. The last known price of Internet Computer is 5.21457344 USD and is down -1.83 over the last 24 hours. It is currently trading on 336 active market(s) with $81,008,852.88 traded over the last 24 hours. More information can be found at https://internetcomputer.org/.",
+    "date_added": "2021-03-23T00:00:00.000Z",
+    "website": "https://internetcomputer.org/",
+    "technical_doc": "https://internetcomputer.org/whitepaper.pdf"
+  },
+  {
+    "symbol": "ETC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "name": "Ethereum Classic",
+    "description": "Ethereum Classic (ETC) is a cryptocurrency launched in 2015. Users are able to generate ETC through the process of mining. Ethereum Classic has a current supply of 210,700,000 with 152,186,858.30678278 in circulation. The last known price of Ethereum Classic is 17.2062479 USD and is down -2.40 over the last 24 hours. It is currently trading on 630 active market(s) with $71,269,285.01 traded over the last 24 hours. More information can be found at https://ethereumclassic.org/.",
+    "date_added": "2016-07-24T00:00:00.000Z",
+    "website": "https://ethereumclassic.org/",
+    "technical_doc": "https://ethereumclassic.org/knowledge/foundation"
+  },
+  {
+    "symbol": "KAS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png",
+    "name": "Kaspa",
+    "description": "Kaspa (KAS) is a cryptocurrency launched in 2021. Users are able to generate KAS through the process of mining. Kaspa has a current supply of 26,269,124,285.282825. The last known price of Kaspa is 0.08304147 USD and is down -7.34 over the last 24 hours. It is currently trading on 187 active market(s) with $49,568,918.81 traded over the last 24 hours. More information can be found at https://www.kaspa.org.",
+    "date_added": "2022-06-01T00:03:58.000Z",
+    "website": "https://www.kaspa.org",
+    "technical_doc": "https://eprint.iacr.org/2018/104.pdf"
+  },
+  {
+    "symbol": "ARB",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
+    "name": "Arbitrum",
+    "description": "Arbitrum (ARB) is a cryptocurrency launched in 2023and operates on the Arbitrum platform. Arbitrum has a current supply of 10,000,000,000 with 4,861,797,072 in circulation. The last known price of Arbitrum is 0.35762096 USD and is down -1.85 over the last 24 hours. It is currently trading on 1149 active market(s) with $178,933,022.29 traded over the last 24 hours. More information can be found at https://arbitrum.foundation.",
+    "date_added": "2023-03-23T12:50:11.000Z",
+    "website": "https://arbitrum.foundation",
+    "technical_doc": "https://github.com/OffchainLabs"
+  },
+  {
+    "symbol": "FIL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+    "name": "Filecoin",
+    "description": "Filecoin (FIL) is a cryptocurrency launched in 2020. Users are able to generate FIL through the process of mining. Filecoin has a current supply of 1,959,473,302 with 674,791,865 in circulation. The last known price of Filecoin is 2.57116692 USD and is down -2.26 over the last 24 hours. It is currently trading on 605 active market(s) with $81,212,495.91 traded over the last 24 hours. More information can be found at https://filecoin.io/.",
+    "date_added": "2017-12-13T00:00:00.000Z",
+    "website": "https://filecoin.io/",
+    "technical_doc": "https://docs.filecoin.io/"
+  },
+  {
+    "symbol": "JUP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png",
+    "name": "Jupiter",
+    "description": "Jupiter (JUP) is a cryptocurrency launched in 2024and operates on the Solana platform. Jupiter has a current supply of 6,999,215,766.21502 with 2,951,327,777.76 in circulation. The last known price of Jupiter is 0.52426544 USD and is down -3.81 over the last 24 hours. It is currently trading on 699 active market(s) with $44,875,473.87 traded over the last 24 hours. More information can be found at https://jup.ag/.",
+    "date_added": "2024-01-31T08:38:13.000Z",
+    "website": "https://jup.ag/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "LDO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
+    "name": "Lido DAO",
+    "description": "Lido DAO (LDO) is a cryptocurrency and operates on the Ethereum platform. Lido DAO has a current supply of 1,000,000,000 with 897,145,082.71892666 in circulation. The last known price of Lido DAO is 0.89245724 USD and is up 3.17 over the last 24 hours. It is currently trading on 533 active market(s) with $150,276,876.09 traded over the last 24 hours. More information can be found at https://lido.fi/.",
+    "date_added": "2020-12-15T00:00:00.000Z",
+    "website": "https://lido.fi/",
+    "technical_doc": "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+  },
+  {
+    "symbol": "VIRTUAL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29420.png",
+    "name": "Virtuals Protocol",
+    "description": "Virtuals Protocol (VIRTUAL) is a cryptocurrency launched in 2023and operates on the Ethereum platform. Virtuals Protocol has a current supply of 1,000,000,000 with 654,696,899.72694151 in circulation. The last known price of Virtuals Protocol is 1.71009802 USD and is down -12.90 over the last 24 hours. It is currently trading on 572 active market(s) with $258,923,220.93 traded over the last 24 hours. More information can be found at https://www.virtuals.io/.",
+    "date_added": "2024-02-15T07:33:29.000Z",
+    "website": "https://www.virtuals.io/",
+    "technical_doc": "https://whitepaper.virtuals.io/"
+  },
+  {
+    "symbol": "QNT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "name": "Quant",
+    "description": "Quant (QNT) is a cryptocurrency and operates on the Ethereum platform. Quant has a current supply of 14,881,364 with 12,072,738 in circulation. The last known price of Quant is 115.99235916 USD and is up 2.42 over the last 24 hours. It is currently trading on 315 active market(s) with $27,660,031.41 traded over the last 24 hours. More information can be found at https://quant.network/.",
+    "date_added": "2018-08-10T00:00:00.000Z",
+    "website": "https://quant.network/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "OP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
+    "name": "Optimism",
+    "description": "Optimism (OP) is a cryptocurrency and operates on the Optimism platform. Optimism has a current supply of 4,294,967,296 with 1,714,909,778 in circulation. The last known price of Optimism is 0.6302875 USD and is down -6.87 over the last 24 hours. It is currently trading on 675 active market(s) with $155,338,148.06 traded over the last 24 hours. More information can be found at https://www.optimism.io/.",
+    "date_added": "2022-05-31T16:19:46.000Z",
+    "website": "https://www.optimism.io/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "TIA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png",
+    "name": "Celestia",
+    "description": "Celestia (TIA) is a cryptocurrency and operates on the Osmosis platform. Celestia has a current supply of 1,126,229,917.807845 with 660,377,356.7459 in circulation. The last known price of Celestia is 2.14439257 USD and is down -5.55 over the last 24 hours. It is currently trading on 285 active market(s) with $65,977,623.24 traded over the last 24 hours. More information can be found at https://www.celestia.org.",
+    "date_added": "2023-10-31T16:51:41.000Z",
+    "website": "https://www.celestia.org",
+    "technical_doc": "https://arxiv.org/abs/1905.09274"
+  },
+  {
+    "symbol": "STX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
+    "name": "Stacks",
+    "description": "Stacks (STX) is a cryptocurrency . Users are able to generate STX through the process of mining. Stacks has a current supply of 1,528,758,745.54599. The last known price of Stacks is 0.75285943 USD and is down -4.42 over the last 24 hours. It is currently trading on 246 active market(s) with $22,403,726.87 traded over the last 24 hours. More information can be found at https://stacks.co.",
+    "date_added": "2019-10-28T00:00:00.000Z",
+    "website": "https://stacks.co",
+    "technical_doc": "https://stacks-network.github.io/stacks/stacks.pdf"
+  },
+  {
+    "symbol": "S",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32684.png",
+    "name": "Sonic",
+    "description": "Sonic (S) is a cryptocurrency launched in 2024. Sonic has a current supply of 3,175,000,000 with 2,880,000,000 in circulation. The last known price of Sonic is 0.39066898 USD and is down -4.55 over the last 24 hours. It is currently trading on 214 active market(s) with $73,596,862.47 traded over the last 24 hours. More information can be found at https://www.soniclabs.com/.",
+    "date_added": "2025-01-03T14:11:26.000Z",
+    "website": "https://www.soniclabs.com/",
+    "technical_doc": "https://www.soniclabs.com/litepaper"
+  },
+  {
+    "symbol": "IP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/35626.png",
+    "name": "Story",
+    "description": "Story (IP) is a cryptocurrency launched in 2025. Story has a current supply of 1,006,402,066 with 280,591,649 in circulation. The last known price of Story is 4.03329614 USD and is down -4.18 over the last 24 hours. It is currently trading on 109 active market(s) with $62,888,183.57 traded over the last 24 hours. More information can be found at https://www.story.foundation/.",
+    "date_added": "2025-02-06T07:02:40.000Z",
+    "website": "https://www.story.foundation/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "SEI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png",
+    "name": "Sei",
+    "description": "Sei (SEI) is a cryptocurrency . Sei has a current supply of 10,000,000,000 with 5,332,083,333 in circulation. The last known price of Sei is 0.19342474 USD and is down -3.43 over the last 24 hours. It is currently trading on 272 active market(s) with $46,469,000.38 traded over the last 24 hours. More information can be found at https://www.sei.io/.",
+    "date_added": "2023-08-14T07:35:00.000Z",
+    "website": "https://www.sei.io/",
+    "technical_doc": "https://github.com/sei-protocol/sei-chain/blob/main/whitepaper/Sei_Whitepaper.pdf"
+  },
+  {
+    "symbol": "PAXG",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+    "name": "PAX Gold",
+    "description": "PAX Gold (PAXG) is a cryptocurrency and operates on the Ethereum platform. PAX Gold has a current supply of 240,090.428. The last known price of PAX Gold is 3,387.59573921 USD and is up 0.60 over the last 24 hours. It is currently trading on 259 active market(s) with $34,549,414.95 traded over the last 24 hours. More information can be found at https://www.paxos.com/paxgold/.",
+    "date_added": "2019-09-26T00:00:00.000Z",
+    "website": "https://www.paxos.com/paxgold/",
+    "technical_doc": "https://www.paxos.com/pax-gold-whitepaper"
+  },
+  {
+    "symbol": "FLR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png",
+    "name": "Flare",
+    "description": "Flare (FLR) is a cryptocurrency launched in 2023. Flare has a current supply of 103,486,051,226.377541 with 66,090,537,970.954934 in circulation. The last known price of Flare is 0.01780205 USD and is down -2.87 over the last 24 hours. It is currently trading on 92 active market(s) with $6,158,817.39 traded over the last 24 hours. More information can be found at https://flare.network.",
+    "date_added": "2020-12-11T00:00:00.000Z",
+    "website": "https://flare.network",
+    "technical_doc": "https://docs.flare.network/"
+  },
+  {
+    "symbol": "IMX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png",
+    "name": "Immutable",
+    "description": "Immutable (IMX) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Immutable has a current supply of 2,000,000,000 with 1,841,869,206.38981415 in circulation. The last known price of Immutable is 0.55108689 USD and is down -5.98 over the last 24 hours. It is currently trading on 372 active market(s) with $23,329,388.07 traded over the last 24 hours. More information can be found at https://www.immutable.com/.",
+    "date_added": "2021-06-24T00:00:00.000Z",
+    "website": "https://www.immutable.com/",
+    "technical_doc": "https://support.immutable.com/hc/en-us/articles/4405227590799"
+  },
+  {
+    "symbol": "WIF",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png",
+    "name": "dogwifhat",
+    "description": "dogwifhat (WIF) is a cryptocurrency and operates on the Solana platform. dogwifhat has a current supply of 998,840,629.787915. The last known price of dogwifhat is 0.89428778 USD and is down -10.15 over the last 24 hours. It is currently trading on 694 active market(s) with $348,573,036.19 traded over the last 24 hours. More information can be found at https://dogwifhat.us/.",
+    "date_added": "2023-12-19T09:08:50.000Z",
+    "website": "https://dogwifhat.us/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "SPX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png",
+    "name": "SPX6900",
+    "description": "SPX6900 (SPX) is a cryptocurrency and operates on the Ethereum platform. SPX6900 has a current supply of 930,993,090.07. The last known price of SPX6900 is 1.09929884 USD and is down -2.28 over the last 24 hours. It is currently trading on 379 active market(s) with $87,956,300.74 traded over the last 24 hours. More information can be found at https://www.spx6900.com.",
+    "date_added": "2023-08-17T10:00:00.000Z",
+    "website": "https://www.spx6900.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "DEXE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7326.png",
+    "name": "DeXe",
+    "description": "DeXe (DEXE) is a cryptocurrency launched in 2020and operates on the Ethereum platform. DeXe has a current supply of 96,504,599.33609451 with 83,733,425.74162056 in circulation. The last known price of DeXe is 9.87363309 USD and is up 11.55 over the last 24 hours. It is currently trading on 124 active market(s) with $57,587,023.86 traded over the last 24 hours. More information can be found at https://dexe.network/.",
+    "date_added": "2020-10-07T00:00:00.000Z",
+    "website": "https://dexe.network/",
+    "technical_doc": "https://whitepaper.dexe.network/"
+  },
+  {
+    "symbol": "CRV",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+    "name": "Curve DAO Token",
+    "description": "Curve DAO Token (CRV) is a cryptocurrency and operates on the Ethereum platform. Curve DAO Token has a current supply of 2,267,854,755.28738061 with 1,345,839,883.23757931 in circulation. The last known price of Curve DAO Token is 0.65188814 USD and is down -5.85 over the last 24 hours. It is currently trading on 860 active market(s) with $107,375,885.37 traded over the last 24 hours. More information can be found at https://www.curve.finance/.",
+    "date_added": "2020-08-14T00:00:00.000Z",
+    "website": "https://www.curve.finance/",
+    "technical_doc": "https://docs.curve.fi/"
+  },
+  {
+    "symbol": "ZEC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+    "name": "Zcash",
+    "description": "Zcash (ZEC) is a cryptocurrency . Users are able to generate ZEC through the process of mining. Zcash has a current supply of 16,717,818.87835043 with 16,658,931.37835043 in circulation. The last known price of Zcash is 50.22954986 USD and is down -9.08 over the last 24 hours. It is currently trading on 419 active market(s) with $83,242,829.47 traded over the last 24 hours. More information can be found at https://z.cash/.",
+    "date_added": "2016-10-29T00:00:00.000Z",
+    "website": "https://z.cash/",
+    "technical_doc": "https://github.com/zcash/zips/blob/master/protocol/protocol.pdf"
+  },
+  {
+    "symbol": "CAKE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+    "name": "PancakeSwap",
+    "description": "PancakeSwap (CAKE) is a cryptocurrency and operates on the Ethereum platform. PancakeSwap has a current supply of 369,304,465.399933 with 321,646,018.1159794 in circulation. The last known price of PancakeSwap is 2.42591051 USD and is up 0.66 over the last 24 hours. It is currently trading on 1690 active market(s) with $124,156,721.10 traded over the last 24 hours. More information can be found at https://pancakeswap.finance/.",
+    "date_added": "2020-09-25T00:00:00.000Z",
+    "website": "https://pancakeswap.finance/",
+    "technical_doc": "https://docs.pancakeswap.finance/developers"
+  },
+  {
+    "symbol": "ENS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png",
+    "name": "Ethereum Name Service",
+    "description": "Ethereum Name Service (ENS) is a cryptocurrency and operates on the Ethereum platform. Ethereum Name Service has a current supply of 100,000,000 with 36,455,103.51381193 in circulation. The last known price of Ethereum Name Service is 21.61306203 USD and is down -1.06 over the last 24 hours. It is currently trading on 413 active market(s) with $66,468,021.39 traded over the last 24 hours. More information can be found at https://ens.domains/.",
+    "date_added": "2021-11-09T01:31:29.000Z",
+    "website": "https://ens.domains/",
+    "technical_doc": "https://docs.ens.domains/"
+  },
+  {
+    "symbol": "RAY",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png",
+    "name": "Raydium",
+    "description": "Raydium (RAY) is a cryptocurrency and operates on the Solana platform. Raydium has a current supply of 554,998,742.705243 with 288,584,142.067797 in circulation. The last known price of Raydium is 2.28225381 USD and is down -4.63 over the last 24 hours. It is currently trading on 463 active market(s) with $54,180,348.73 traded over the last 24 hours. More information can be found at https://raydium.io/#/.",
+    "date_added": "2021-02-19T00:00:00.000Z",
+    "website": "https://raydium.io/#/",
+    "technical_doc": "https://raydium.io/Raydium-Litepaper.pdf"
+  },
+  {
+    "symbol": "GALA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
+    "name": "Gala",
+    "description": "Gala (GALA) is a cryptocurrency and operates on the Ethereum platform. Gala has a current supply of 44,750,649,346.16593. The last known price of Gala is 0.01646293 USD and is down -4.43 over the last 24 hours. It is currently trading on 525 active market(s) with $51,067,060.38 traded over the last 24 hours. More information can be found at https://gala.com/.",
+    "date_added": "2020-09-16T00:00:00.000Z",
+    "website": "https://gala.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "THETA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+    "name": "Theta Network",
+    "description": "Theta Network (THETA) is a cryptocurrency . Theta Network has a current supply of 1,000,000,000. The last known price of Theta Network is 0.75249826 USD and is down -4.15 over the last 24 hours. It is currently trading on 248 active market(s) with $22,873,648.40 traded over the last 24 hours. More information can be found at https://www.thetatoken.org/.",
+    "date_added": "2018-01-17T00:00:00.000Z",
+    "website": "https://www.thetatoken.org/",
+    "technical_doc": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf?v=1553657855.509"
+  },
+  {
+    "symbol": "JASMY",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png",
+    "name": "JasmyCoin",
+    "description": "JasmyCoin (JASMY) is a cryptocurrency launched in 2016and operates on the Ethereum platform. JasmyCoin has a current supply of 50,000,000,000 with 49,444,999,677.16957912 in circulation. The last known price of JasmyCoin is 0.01448854 USD and is down -4.75 over the last 24 hours. It is currently trading on 305 active market(s) with $25,573,684.79 traded over the last 24 hours. More information can be found at https://www.jasmy.co.jp/en_company.html.",
+    "date_added": "2021-02-11T00:00:00.000Z",
+    "website": "https://www.jasmy.co.jp/en_company.html",
+    "technical_doc": "https://www.jasmy.co.jp/images/whitepaper.pdf"
+  },
+  {
+    "symbol": "CORE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png",
+    "name": "Core",
+    "description": "Core (CORE) is a cryptocurrency launched in 2023. Core has a current supply of 2,093,769,839.03528109 with 1,002,732,004.18352649 in circulation. The last known price of Core is 0.66975054 USD and is down -5.90 over the last 24 hours. It is currently trading on 94 active market(s) with $16,152,580.60 traded over the last 24 hours. More information can be found at https://www.coredao.org/.",
+    "date_added": "2023-02-08T12:26:11.000Z",
+    "website": "https://www.coredao.org/",
+    "technical_doc": "https://docs.coredao.org/core-white-paper-v1.0.5/"
+  },
+  {
+    "symbol": "NEXO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+    "name": "Nexo",
+    "description": "Nexo (NEXO) is a cryptocurrency launched in 2018and operates on the Ethereum platform. Nexo has a current supply of 1,000,000,000 with 646,145,839.57468476 in circulation. The last known price of Nexo is 1.25145016 USD and is up 0.25 over the last 24 hours. It is currently trading on 158 active market(s) with $8,794,965.13 traded over the last 24 hours. More information can be found at https://nexo.com.",
+    "date_added": "2018-05-01T00:00:00.000Z",
+    "website": "https://nexo.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "IOTA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+    "name": "IOTA",
+    "description": "IOTA (IOTA) is a cryptocurrency launched in 2015. IOTA has a current supply of 4,600,000,000 with 3,807,508,612 in circulation. The last known price of IOTA is 0.18163976 USD and is down -4.01 over the last 24 hours. It is currently trading on 193 active market(s) with $11,244,529.29 traded over the last 24 hours. More information can be found at https://www.iota.org/.",
+    "date_added": "2017-06-13T00:00:00.000Z",
+    "website": "https://www.iota.org/",
+    "technical_doc": "https://iota.org/IOTA_Whitepaper.pdf"
+  },
+  {
+    "symbol": "PENDLE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png",
+    "name": "Pendle",
+    "description": "Pendle (PENDLE) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Pendle has a current supply of 281,527,448.45853144 with 162,237,334.33483934 in circulation. The last known price of Pendle is 4.1154493 USD and is down -3.01 over the last 24 hours. It is currently trading on 472 active market(s) with $71,095,358.28 traded over the last 24 hours. More information can be found at https://pendle.finance/.",
+    "date_added": "2021-04-29T00:00:00.000Z",
+    "website": "https://pendle.finance/",
+    "technical_doc": "https://docs.pendle.finance/resources/lite-paper"
+  },
+  {
+    "symbol": "SOL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    "name": "Solana",
+    "description": "Solana (SOL) is a cryptocurrency launched in 2020. Solana has a current supply of 602,266,032.0189466 with 522,535,296.4245532 in circulation. The last known price of Solana is 154.52381198 USD and is down -2.04 over the last 24 hours. It is currently trading on 933 active market(s) with $2,786,205,035.21 traded over the last 24 hours. More information can be found at https://solana.com.",
+    "date_added": "2020-04-10T00:00:00.000Z",
+    "website": "https://solana.com",
+    "technical_doc": "https://solana.com/solana-whitepaper.pdf"
+  },
+  {
+    "symbol": "ENA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png",
+    "name": "Ethena",
+    "description": "Ethena (ENA) is a cryptocurrency and operates on the Ethereum platform. Ethena has a current supply of 15,000,000,000 with 5,820,312,500 in circulation. The last known price of Ethena is 0.31518396 USD and is down -6.86 over the last 24 hours. It is currently trading on 286 active market(s) with $237,963,344.07 traded over the last 24 hours. More information can be found at https://www.ethena.fi/.",
+    "date_added": "2024-03-29T04:42:08.000Z",
+    "website": "https://www.ethena.fi/",
+    "technical_doc": "https://ethena-labs.gitbook.io/ethena-labs/"
+  },
+  {
+    "symbol": "BTT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png",
+    "name": "BitTorrent [New]",
+    "description": "BitTorrent [New] (BTT) is a cryptocurrency and operates on the Tron20 platform. BitTorrent [New] has a current supply of 990,000,000,000,000 with 986,061,142,857,000 in circulation. The last known price of BitTorrent [New] is 0.00000069 USD and is down -1.21 over the last 24 hours. It is currently trading on 194 active market(s) with $32,035,613.38 traded over the last 24 hours. More information can be found at https://bt.io/.",
+    "date_added": "2019-01-31T00:00:00.000Z",
+    "website": "https://bt.io/",
+    "technical_doc": "https://www.bittorrent.com/btt/btt-docs/BitTorrent_(BTT)_White_Paper_v0.8.7_Feb_2019.pdf"
+  },
+  {
+    "symbol": "HNT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png",
+    "name": "Helium",
+    "description": "Helium (HNT) is a cryptocurrency launched in 2019. Users are able to generate HNT through the process of mining. Helium has a current supply of 183,285,398.5849428. The last known price of Helium is 3.04809224 USD and is down -6.05 over the last 24 hours. It is currently trading on 192 active market(s) with $6,212,383.95 traded over the last 24 hours. More information can be found at https://www.helium.com/.",
+    "date_added": "2020-06-05T00:00:00.000Z",
+    "website": "https://www.helium.com/",
+    "technical_doc": "http://whitepaper.helium.com/"
+  },
+  {
+    "symbol": "XDC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png",
+    "name": "XDC Network",
+    "description": "XDC Network (XDC) is a cryptocurrency . XDC Network has a current supply of 37,996,760,436.75 with 16,216,575,165.25 in circulation. The last known price of XDC Network is 0.05990537 USD and is down -0.40 over the last 24 hours. It is currently trading on 143 active market(s) with $35,715,967.01 traded over the last 24 hours. More information can be found at https://www.xinfin.org/.",
+    "date_added": "2018-04-12T00:00:00.000Z",
+    "website": "https://www.xinfin.org/",
+    "technical_doc": "https://xinfin.org/docs/whitepaper-tech.pdf"
+  },
+  {
+    "symbol": "XLM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+    "name": "Stellar",
+    "description": "Stellar (XLM) is a cryptocurrency . Stellar has a current supply of 50,001,786,892.81785 with 31,179,157,945.27605 in circulation. The last known price of Stellar is 0.26660991 USD and is down -2.49 over the last 24 hours. It is currently trading on 712 active market(s) with $158,920,813.16 traded over the last 24 hours. More information can be found at https://www.stellar.org.",
+    "date_added": "2014-08-05T00:00:00.000Z",
+    "website": "https://www.stellar.org",
+    "technical_doc": "https://www.stellar.org/papers/stellar-consensus-protocol.pdf"
+  },
+  {
+    "symbol": "HBAR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+    "name": "Hedera",
+    "description": "Hedera (HBAR) is a cryptocurrency launched in 2017. Hedera has a current supply of 50,000,000,000 with 42,239,760,469.41755921 in circulation. The last known price of Hedera is 0.16705768 USD and is down -3.28 over the last 24 hours. It is currently trading on 345 active market(s) with $103,766,131.31 traded over the last 24 hours. More information can be found at https://www.hedera.com/.",
+    "date_added": "2019-09-17T00:00:00.000Z",
+    "website": "https://www.hedera.com/",
+    "technical_doc": "https://www.hedera.com/papers"
+  },
+  {
+    "symbol": "VET",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+    "name": "VeChain",
+    "description": "VeChain (VET) is a cryptocurrency . VeChain has a current supply of 85,985,041,177. The last known price of VeChain is 0.02392304 USD and is down -3.43 over the last 24 hours. It is currently trading on 345 active market(s) with $33,231,992.60 traded over the last 24 hours. More information can be found at https://www.vechain.org/.",
+    "date_added": "2017-08-22T00:00:00.000Z",
+    "website": "https://www.vechain.org/",
+    "technical_doc": "https://www.vechain.org/whitepaper/#bit_65sv8"
+  },
+  {
+    "symbol": "EOS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "name": "EOS",
+    "description": "EOS (EOS) is a cryptocurrency launched in 2017. EOS has a current supply of 2,100,000,000 with 0 in circulation. The last known price of EOS is 0.61397988 USD and is down -5.96 over the last 24 hours. It is currently trading on 769 active market(s) with $27,150,397.59 traded over the last 24 hours. More information can be found at https://eosnetwork.com/.",
+    "date_added": "2017-07-01T00:00:00.000Z",
+    "website": "https://eosnetwork.com/",
+    "technical_doc": "https://eosnetwork.com/blog/category/eos-blue-papers/"
+  },
+  {
+    "symbol": "XTZ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "name": "Tezos",
+    "description": "Tezos (XTZ) is a cryptocurrency . Tezos has a current supply of 1,066,123,205.677562 with 1,045,999,325.121182 in circulation. The last known price of Tezos is 0.57273496 USD and is down -2.31 over the last 24 hours. It is currently trading on 447 active market(s) with $14,238,594.55 traded over the last 24 hours. More information can be found at https://www.tezos.com/.",
+    "date_added": "2017-10-06T00:00:00.000Z",
+    "website": "https://www.tezos.com/",
+    "technical_doc": "https://tezos.com/whitepaper.pdf"
+  },
+  {
+    "symbol": "ONDO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png",
+    "name": "Ondo",
+    "description": "Ondo (ONDO) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Ondo has a current supply of 10,000,000,000 with 3,159,107,529 in circulation. The last known price of Ondo is 0.83021166 USD and is down -2.66 over the last 24 hours. It is currently trading on 314 active market(s) with $79,781,531.09 traded over the last 24 hours. More information can be found at https://ondo.foundation/.",
+    "date_added": "2024-01-18T12:06:25.000Z",
+    "website": "https://ondo.foundation/",
+    "technical_doc": "https://docs.ondo.foundation/ondo-token"
+  },
+  {
+    "symbol": "MKR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+    "name": "Maker",
+    "description": "Maker (MKR) is a cryptocurrency and operates on the Ethereum platform. Maker has a current supply of 870,827.47 with 0 in circulation. The last known price of Maker is 1,785.47294932 USD and is down -5.60 over the last 24 hours. It is currently trading on 568 active market(s) with $140,422,208.68 traded over the last 24 hours. More information can be found at https://makerdao.com/.",
+    "date_added": "2017-01-29T00:00:00.000Z",
+    "website": "https://makerdao.com/",
+    "technical_doc": "https://makerdao.com/en/whitepaper/#overview-of-the-dai-stablecoin-system"
+  },
+  {
+    "symbol": "FET",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png",
+    "name": "Artificial Superintelligence Alliance",
+    "description": "Artificial Superintelligence Alliance (FET) is a cryptocurrency launched in 2018. Artificial Superintelligence Alliance has a current supply of 2,714,493,896.672 with 2,395,112,078.05884393 in circulation. The last known price of Artificial Superintelligence Alliance is 0.79080759 USD and is down -4.64 over the last 24 hours. It is currently trading on 471 active market(s) with $122,147,959.12 traded over the last 24 hours. More information can be found at https://superintelligence.io/.",
+    "date_added": "2019-03-02T00:00:00.000Z",
+    "website": "https://superintelligence.io/",
+    "technical_doc": "https://docs.superintelligence.io/artificial-superintelligence-alliance/vision-paper"
+  },
+  {
+    "symbol": "AR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png",
+    "name": "Arweave",
+    "description": "Arweave (AR) is a cryptocurrency launched in 2018. Arweave has a current supply of 65,652,466. The last known price of Arweave is 6.451824 USD and is down -4.54 over the last 24 hours. It is currently trading on 201 active market(s) with $23,874,111.34 traded over the last 24 hours. More information can be found at https://www.arweave.org.",
+    "date_added": "2020-05-27T00:00:00.000Z",
+    "website": "https://www.arweave.org",
+    "technical_doc": "https://ar-io.net/azo-0qw6bb9u5doGdMR-atcIRV_ylJCV4K4Kwv85GO4"
+  },
+  {
+    "symbol": "AERO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png",
+    "name": "Aerodrome Finance",
+    "description": "Aerodrome Finance (AERO) is a cryptocurrency and operates on the Base platform. Aerodrome Finance has a current supply of 1,639,198,175.42164632 with 823,913,868.67963503 in circulation. The last known price of Aerodrome Finance is 0.53824032 USD and is down -1.44 over the last 24 hours. It is currently trading on 321 active market(s) with $14,802,087.68 traded over the last 24 hours. More information can be found at https://aerodrome.finance/.",
+    "date_added": "2024-02-02T07:15:19.000Z",
+    "website": "https://aerodrome.finance/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "KMNO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30986.png",
+    "name": "Kamino Finance",
+    "description": "Kamino Finance (KMNO) is a cryptocurrency launched in 2024and operates on the Solana platform. Kamino Finance has a current supply of 9,999,982,953.484209 with 2,013,698,653.75 in circulation. The last known price of Kamino Finance is 0.0538701 USD and is down -7.73 over the last 24 hours. It is currently trading on 190 active market(s) with $11,364,554.45 traded over the last 24 hours. More information can be found at https://app.kamino.finance/.",
+    "date_added": "2024-04-30T06:37:24.000Z",
+    "website": "https://app.kamino.finance/",
+    "technical_doc": "https://docs.kamino.finance/kamino-lend-litepaper"
+  },
+  {
+    "symbol": "SYRUP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33824.png",
+    "name": "Maple Finance",
+    "description": "Maple Finance (SYRUP) is a cryptocurrency launched in 2024and operates on the Ethereum platform. Maple Finance has a current supply of 1,189,633,000.05427131 with 1,113,002,039.92064143 in circulation. The last known price of Maple Finance is 0.41497164 USD and is down -4.40 over the last 24 hours. It is currently trading on 108 active market(s) with $84,837,204.77 traded over the last 24 hours. More information can be found at https://maple.finance/.",
+    "date_added": "2024-11-06T06:16:40.000Z",
+    "website": "https://maple.finance/",
+    "technical_doc": "https://maplefinance.gitbook.io/maple"
+  },
+  {
+    "symbol": "XAUT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png",
+    "name": "Tether Gold",
+    "description": "Tether Gold (XAUt) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Tether Gold has a current supply of 246,524. The last known price of Tether Gold is 3,374.49170738 USD and is up 0.58 over the last 24 hours. It is currently trading on 153 active market(s) with $16,969,938.17 traded over the last 24 hours. More information can be found at https://gold.tether.to/.",
+    "date_added": "2020-02-07T00:00:00.000Z",
+    "website": "https://gold.tether.to/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "PENGU",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34466.png",
+    "name": "Pudgy Penguins",
+    "description": "Pudgy Penguins (PENGU) is a cryptocurrency launched in 2024and operates on the Solana platform. Pudgy Penguins has a current supply of 88,888,888,888 with 62,860,396,090.04 in circulation. The last known price of Pudgy Penguins is 0.01015503 USD and is down -2.37 over the last 24 hours. It is currently trading on 338 active market(s) with $70,124,140.69 traded over the last 24 hours. More information can be found at https://www.pudgypenguins.com.",
+    "date_added": "2024-12-17T14:00:00.000Z",
+    "website": "https://www.pudgypenguins.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "JTO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28541.png",
+    "name": "Jito",
+    "description": "Jito (JTO) is a cryptocurrency launched in 2023and operates on the Solana platform. Jito has a current supply of 999,999,721.64778228 with 336,180,068.6 in circulation. The last known price of Jito is 1.86501413 USD and is up 1.73 over the last 24 hours. It is currently trading on 308 active market(s) with $36,907,985.06 traded over the last 24 hours. More information can be found at https://www.jito.network/.",
+    "date_added": "2023-12-07T16:04:41.000Z",
+    "website": "https://www.jito.network/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "XTZ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "name": "Tezos",
+    "description": "Tezos (XTZ) is a cryptocurrency . Tezos has a current supply of 1,066,126,982.987106 with 1,046,003,096.78526 in circulation. The last known price of Tezos is 0.57701524 USD and is down -1.44 over the last 24 hours. It is currently trading on 447 active market(s) with $14,047,572.94 traded over the last 24 hours. More information can be found at https://www.tezos.com/.",
+    "date_added": "2017-10-06T00:00:00.000Z",
+    "website": "https://www.tezos.com/",
+    "technical_doc": "https://tezos.com/whitepaper.pdf"
+  },
+  {
+    "symbol": "ZKJ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29779.png",
+    "name": "Polyhedra Network",
+    "description": "Polyhedra Network (ZKJ) is a cryptocurrency and operates on the Ethereum platform. Polyhedra Network has a current supply of 1,000,000,000 with 292,861,111 in circulation. The last known price of Polyhedra Network is 2.00457395 USD and is down -0.12 over the last 24 hours. It is currently trading on 163 active market(s) with $6,672,977,074.64 traded over the last 24 hours. More information can be found at https://polyhedra.network/.",
+    "date_added": "2024-03-19T09:05:12.000Z",
+    "website": "https://polyhedra.network/",
+    "technical_doc": "https://dl.acm.org/doi/10.1145/3548606.3560652"
+  },
+  {
+    "symbol": "FLOW",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
+    "name": "Flow",
+    "description": "Flow (FLOW) is a cryptocurrency launched in 2021. Flow has a current supply of 1,587,363,974.68251813. The last known price of Flow is 0.36791617 USD and is down -1.98 over the last 24 hours. It is currently trading on 241 active market(s) with $15,434,120.53 traded over the last 24 hours. More information can be found at https://flow.com.",
+    "date_added": "2021-01-27T00:00:00.000Z",
+    "website": "https://flow.com",
+    "technical_doc": "https://www.flow.com/technical-paper"
+  },
+  {
+    "symbol": "RUNE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png",
+    "name": "THORChain",
+    "description": "THORChain (RUNE) is a cryptocurrency launched in 2018. THORChain has a current supply of 425,555,969 with 351,447,501 in circulation. The last known price of THORChain is 1.63791477 USD and is down -2.91 over the last 24 hours. It is currently trading on 243 active market(s) with $81,884,029.79 traded over the last 24 hours. More information can be found at https://thorchain.org/.",
+    "date_added": "2019-07-23T00:00:00.000Z",
+    "website": "https://thorchain.org/",
+    "technical_doc": "https://github.com/thorchain/Resources/blob/master/Whitepapers/THORChain-Whitepaper-May2020.pdf"
+  },
+  {
+    "symbol": "HNT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png",
+    "name": "Helium",
+    "description": "Helium (HNT) is a cryptocurrency launched in 2019. Users are able to generate HNT through the process of mining. Helium has a current supply of 183,285,397.8436143. The last known price of Helium is 3.03219018 USD and is down -5.86 over the last 24 hours. It is currently trading on 192 active market(s) with $6,324,042.00 traded over the last 24 hours. More information can be found at https://www.helium.com/.",
+    "date_added": "2020-06-05T00:00:00.000Z",
+    "website": "https://www.helium.com/",
+    "technical_doc": "http://whitepaper.helium.com/"
+  },
+  {
+    "symbol": "MANA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+    "name": "Decentraland",
+    "description": "Decentraland (MANA) is a cryptocurrency and operates on the Ethereum platform. Decentraland has a current supply of 2,193,179,327.32014624 with 1,969,729,010.36875697 in circulation. The last known price of Decentraland is 0.27822257 USD and is down -1.97 over the last 24 hours. It is currently trading on 576 active market(s) with $25,040,708.38 traded over the last 24 hours. More information can be found at https://decentraland.org/.",
+    "date_added": "2017-09-17T00:00:00.000Z",
+    "website": "https://decentraland.org/",
+    "technical_doc": "https://decentraland.org/whitepaper.pdf"
+  },
+  {
+    "symbol": "APE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
+    "name": "ApeCoin",
+    "description": "ApeCoin (APE) is a cryptocurrency launched in 2022and operates on the Ethereum platform. ApeCoin has a current supply of 1,000,000,000 with 752,651,515 in circulation. The last known price of ApeCoin is 0.72204176 USD and is up 4.77 over the last 24 hours. It is currently trading on 509 active market(s) with $120,326,311.38 traded over the last 24 hours. More information can be found at http://apecoin.com/.",
+    "date_added": "2022-03-17T12:26:36.000Z",
+    "website": "http://apecoin.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "AB",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3871.png",
+    "name": "AB",
+    "description": "AB (AB) is a cryptocurrency launched in 2018. Users are able to generate AB through the process of mining. AB has a current supply of 98,823,661,261.46 with 61,469,592,427.95 in circulation. The last known price of AB is 0.00862074 USD and is up 0.29 over the last 24 hours. It is currently trading on 33 active market(s) with $39,115,807.74 traded over the last 24 hours. More information can be found at https://ab.org.",
+    "date_added": "2019-04-17T00:00:00.000Z",
+    "website": "https://ab.org",
+    "technical_doc": "https://ab.org/files/AB%20Litepaper.pdf"
+  },
+  {
+    "symbol": "XCN",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18679.png",
+    "name": "Onyxcoin",
+    "description": "Onyxcoin (XCN) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Onyxcoin has a current supply of 48,402,437,326 with 33,517,791,545 in circulation. The last known price of Onyxcoin is 0.01566041 USD and is up 0.68 over the last 24 hours. It is currently trading on 156 active market(s) with $47,730,673.40 traded over the last 24 hours. More information can be found at https://onyx.org.",
+    "date_added": "2022-03-09T16:10:43.000Z",
+    "website": "https://onyx.org",
+    "technical_doc": "https://onyx.org/Whitepaper.pdf"
+  },
+  {
+    "symbol": "KAVA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
+    "name": "Kava",
+    "description": "Kava (KAVA) is a cryptocurrency launched in 2019and operates on the Ethereum platform. Kava has a current supply of 1,082,853,386. The last known price of Kava is 0.43954888 USD and is up 1.87 over the last 24 hours. It is currently trading on 199 active market(s) with $22,709,253.44 traded over the last 24 hours. More information can be found at https://www.kava.io/.",
+    "date_added": "2019-10-25T00:00:00.000Z",
+    "website": "https://www.kava.io/",
+    "technical_doc": "https://docsend.com/view/gwbwpc3"
+  },
+  {
+    "symbol": "DEEP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33391.png",
+    "name": "DeepBook Protocol",
+    "description": "DeepBook Protocol (DEEP) is a cryptocurrency launched in 2024and operates on the Sui Network platform. DeepBook Protocol has a current supply of 10,000,000,000 with 3,244,000,000 in circulation. The last known price of DeepBook Protocol is 0.14712617 USD and is down -1.87 over the last 24 hours. It is currently trading on 101 active market(s) with $15,213,280.84 traded over the last 24 hours. More information can be found at https://deepbook.tech/.",
+    "date_added": "2024-10-10T05:43:32.000Z",
+    "website": "https://deepbook.tech/",
+    "technical_doc": "https://drive.google.com/file/d/12JaXqshtbIgyvWIxV8j2GVRCINafqYqe/view"
+  },
+  {
+    "symbol": "EIGEN",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30494.png",
+    "name": "EigenLayer",
+    "description": "EigenLayer (EIGEN) is a cryptocurrency and operates on the Ethereum platform. EigenLayer has a current supply of 1,727,718,329.87539517 with 304,179,530.81670123 in circulation. The last known price of EigenLayer is 1.51376349 USD and is down -0.16 over the last 24 hours. It is currently trading on 213 active market(s) with $163,458,378.91 traded over the last 24 hours. More information can be found at https://www.eigenlayer.xyz/.",
+    "date_added": "2024-07-04T15:49:12.000Z",
+    "website": "https://www.eigenlayer.xyz/",
+    "technical_doc": "https://docs.eigenlayer.xyz/"
+  },
+  {
+    "symbol": "STRK",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png",
+    "name": "Starknet",
+    "description": "Starknet (STRK) is a cryptocurrency and operates on the Ethereum platform. Starknet has a current supply of 10,000,000,000 with 3,351,568,213.911714 in circulation. The last known price of Starknet is 0.13665277 USD and is down -3.02 over the last 24 hours. It is currently trading on 243 active market(s) with $20,384,413.48 traded over the last 24 hours. More information can be found at https://starknet.io/.",
+    "date_added": "2024-02-20T12:19:19.000Z",
+    "website": "https://starknet.io/",
+    "technical_doc": "https://starknet.io/docs/"
+  },
+  {
+    "symbol": "ATH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30083.png",
+    "name": "Aethir",
+    "description": "Aethir (ATH) is a cryptocurrency launched in 2024and operates on the Ethereum platform. Aethir has a current supply of 42,000,000,000 with 9,084,674,961 in circulation. The last known price of Aethir is 0.05082761 USD and is up 3.21 over the last 24 hours. It is currently trading on 161 active market(s) with $30,946,797.80 traded over the last 24 hours. More information can be found at https://www.aethir.com/.",
+    "date_added": "2024-06-12T13:27:01.000Z",
+    "website": "https://www.aethir.com/",
+    "technical_doc": "https://aethir.gitbook.io/aethir/ljvx8d8ee4ElPliP31K1"
+  },
+  {
+    "symbol": "AERO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png",
+    "name": "Aerodrome Finance",
+    "description": "Aerodrome Finance (AERO) is a cryptocurrency and operates on the Base platform. Aerodrome Finance has a current supply of 1,639,198,175.42164632 with 823,838,709.79571535 in circulation. The last known price of Aerodrome Finance is 0.54370486 USD and is up 0.44 over the last 24 hours. It is currently trading on 321 active market(s) with $14,923,725.22 traded over the last 24 hours. More information can be found at https://aerodrome.finance/.",
+    "date_added": "2024-02-02T07:15:19.000Z",
+    "website": "https://aerodrome.finance/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "EGLD",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+    "name": "MultiversX",
+    "description": "MultiversX (EGLD) is a cryptocurrency . MultiversX has a current supply of 28,301,828 with 28,289,721.64436 in circulation. The last known price of MultiversX is 15.66650429 USD and is down -1.46 over the last 24 hours. It is currently trading on 294 active market(s) with $12,585,621.08 traded over the last 24 hours. More information can be found at https://multiversx.com/.",
+    "date_added": "2020-09-04T00:00:00.000Z",
+    "website": "https://multiversx.com/",
+    "technical_doc": "https://files.multiversx.com/multiversx-whitepaper.pdf"
+  },
+  {
+    "symbol": "DYDX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png",
+    "name": "dYdX",
+    "description": "dYdX (DYDX) is a cryptocurrency launched in 2021and operates on the Osmosis platform. dYdX has a current supply of 889,308,850 with 785,052,149.2172179 in circulation. The last known price of dYdX is 0.55415283 USD and is down -3.54 over the last 24 hours. It is currently trading on 235 active market(s) with $15,299,000.33 traded over the last 24 hours. More information can be found at https://dydx.trade/?utm_source=cmc&utm_medium=media&utm_campaign=cmc-feed.",
+    "date_added": "2021-08-03T00:00:00.000Z",
+    "website": "https://dydx.trade/?utm_source=cmc&utm_medium=media&utm_campaign=cmc-feed",
+    "technical_doc": "https://docs.dydx.community/dydx-token-migration/start-here/introduction"
+  },
+  {
+    "symbol": "XEC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png",
+    "name": "eCash",
+    "description": "eCash (XEC) is a cryptocurrency launched in 2020. eCash has a current supply of 19,874,451,547,583. The last known price of eCash is 0.00002167 USD and is down -2.34 over the last 24 hours. It is currently trading on 127 active market(s) with $7,814,896.33 traded over the last 24 hours. More information can be found at https://e.cash/.",
+    "date_added": "2021-07-08T00:00:00.000Z",
+    "website": "https://e.cash/",
+    "technical_doc": "https://bitcoin.org/bitcoin.pdf"
+  },
+  {
+    "symbol": "NEO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png",
+    "name": "Neo",
+    "description": "Neo (NEO) is a cryptocurrency . Neo has a current supply of 100,000,000 with 70,538,831 in circulation. The last known price of Neo is 6.05529853 USD and is down -2.05 over the last 24 hours. It is currently trading on 380 active market(s) with $27,633,625.35 traded over the last 24 hours. More information can be found at https://neo.org/.",
+    "date_added": "2016-09-08T00:00:00.000Z",
+    "website": "https://neo.org/",
+    "technical_doc": "https://docs.neo.org/docs/en-us/index.html"
+  },
+  {
+    "symbol": "AR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png",
+    "name": "Arweave",
+    "description": "Arweave (AR) is a cryptocurrency launched in 2018. Arweave has a current supply of 65,652,466. The last known price of Arweave is 6.51543393 USD and is down -3.67 over the last 24 hours. It is currently trading on 201 active market(s) with $23,429,194.15 traded over the last 24 hours. More information can be found at https://www.arweave.org.",
+    "date_added": "2020-05-27T00:00:00.000Z",
+    "website": "https://www.arweave.org",
+    "technical_doc": "https://ar-io.net/azo-0qw6bb9u5doGdMR-atcIRV_ylJCV4K4Kwv85GO4"
+  },
+  {
+    "symbol": "COMP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+    "name": "Compound",
+    "description": "Compound (COMP) is a cryptocurrency and operates on the Ethereum platform. Compound has a current supply of 10,000,000 with 9,083,025.51760994 in circulation. The last known price of Compound is 45.20839499 USD and is up 2.53 over the last 24 hours. It is currently trading on 575 active market(s) with $206,021,059.88 traded over the last 24 hours. More information can be found at https://compoundlabs.xyz/.",
+    "date_added": "2020-06-16T00:00:00.000Z",
+    "website": "https://compoundlabs.xyz/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "LPT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3640.png",
+    "name": "Livepeer",
+    "description": "Livepeer (LPT) is a cryptocurrency and operates on the Ethereum platform. Livepeer has a current supply of 41,149,622.73707048. The last known price of Livepeer is 10.56920367 USD and is up 33.28 over the last 24 hours. It is currently trading on 260 active market(s) with $733,872,701.83 traded over the last 24 hours. More information can be found at https://livepeer.org/.",
+    "date_added": "2018-12-19T00:00:00.000Z",
+    "website": "https://livepeer.org/",
+    "technical_doc": "https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md"
+  },
+  {
+    "symbol": "AIOZ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png",
+    "name": "AIOZ Network",
+    "description": "AIOZ Network (AIOZ) is a cryptocurrency . AIOZ Network has a current supply of 1,180,690,555.77043146. The last known price of AIOZ Network is 0.35412368 USD and is down -5.40 over the last 24 hours. It is currently trading on 144 active market(s) with $14,404,564.28 traded over the last 24 hours. More information can be found at https://aioz.network/.",
+    "date_added": "2021-04-02T00:00:00.000Z",
+    "website": "https://aioz.network/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ZBCN",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30636.png",
+    "name": "Zebec Network",
+    "description": "Zebec Network (ZBCN) is a cryptocurrency launched in 2022and operates on the Solana platform. Zebec Network has a current supply of 99,999,366,308.142184 with 79,176,330,668.215484 in circulation. The last known price of Zebec Network is 0.0052229 USD and is up 9.43 over the last 24 hours. It is currently trading on 84 active market(s) with $91,897,900.03 traded over the last 24 hours. More information can be found at https://zebec.io/.",
+    "date_added": "2024-04-15T04:07:21.000Z",
+    "website": "https://zebec.io/",
+    "technical_doc": "https://docs.zebec.io/zebec-network-white-paper"
+  },
+  {
+    "symbol": "KAITO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/35763.png",
+    "name": "KAITO",
+    "description": "KAITO (KAITO) is a cryptocurrency and operates on the Base platform. KAITO has a current supply of 1,000,000,000 with 241,388,889 in circulation. The last known price of KAITO is 1.65409014 USD and is down -9.98 over the last 24 hours. It is currently trading on 193 active market(s) with $101,874,377.90 traded over the last 24 hours. More information can be found at https://yaps.kaito.ai/.",
+    "date_added": "2025-02-14T13:09:33.000Z",
+    "website": "https://yaps.kaito.ai/",
+    "technical_doc": "https://docs.kaito.ai/"
+  },
+  {
+    "symbol": "RSR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png",
+    "name": "Reserve Rights",
+    "description": "Reserve Rights (RSR) is a cryptocurrency and operates on the Ethereum platform. Reserve Rights has a current supply of 100,000,000,000 with 57,747,594,889 in circulation. The last known price of Reserve Rights is 0.00693661 USD and is down -5.11 over the last 24 hours. It is currently trading on 283 active market(s) with $15,672,561.79 traded over the last 24 hours. More information can be found at https://reserve.org/.",
+    "date_added": "2019-05-24T00:00:00.000Z",
+    "website": "https://reserve.org/",
+    "technical_doc": "https://reserve.org/protocol/introduction/"
+  },
+  {
+    "symbol": "AXS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
+    "name": "Axie Infinity",
+    "description": "Axie Infinity (AXS) is a cryptocurrency and operates on the Ethereum platform. Axie Infinity has a current supply of 270,000,000 with 161,806,347.3011043 in circulation. The last known price of Axie Infinity is 2.46463549 USD and is down -4.57 over the last 24 hours. It is currently trading on 529 active market(s) with $29,142,454.35 traded over the last 24 hours. More information can be found at https://axieinfinity.com/.",
+    "date_added": "2020-08-31T00:00:00.000Z",
+    "website": "https://axieinfinity.com/",
+    "technical_doc": "https://whitepaper.axieinfinity.com/"
+  },
+  {
+    "symbol": "MORPHO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34104.png",
+    "name": "Morpho",
+    "description": "Morpho (MORPHO) is a cryptocurrency and operates on the Ethereum platform. Morpho has a current supply of 1,000,000,000 with 282,080,259.96405974 in circulation. The last known price of Morpho is 1.38690513 USD and is down -0.25 over the last 24 hours. It is currently trading on 133 active market(s) with $11,767,948.65 traded over the last 24 hours. More information can be found at https://morpho.org/.",
+    "date_added": "2024-11-21T10:30:00.000Z",
+    "website": "https://morpho.org/",
+    "technical_doc": "https://docs.morpho.org/whitepapers/"
+  },
+  {
+    "symbol": "CFX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png",
+    "name": "Conflux",
+    "description": "Conflux (CFX) is a cryptocurrency launched in 2020. Users are able to generate CFX through the process of mining. Conflux has a current supply of 5,077,639,050.95. The last known price of Conflux is 0.07670738 USD and is down -2.71 over the last 24 hours. It is currently trading on 212 active market(s) with $23,477,960.79 traded over the last 24 hours. More information can be found at https://confluxnetwork.org/.",
+    "date_added": "2020-11-11T00:00:00.000Z",
+    "website": "https://confluxnetwork.org/",
+    "technical_doc": "https://confluxnetwork.org/files/Conflux_Economic_Paper_20201230.pdf"
+  },
+  {
+    "symbol": "SUPER",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png",
+    "name": "SuperVerse",
+    "description": "SuperVerse (SUPER) is a cryptocurrency and operates on the Ethereum platform. SuperVerse has a current supply of 999,998,077.41691727 with 596,329,277.41691727 in circulation. The last known price of SuperVerse is 0.64909611 USD and is down -5.30 over the last 24 hours. It is currently trading on 223 active market(s) with $10,213,657.86 traded over the last 24 hours. More information can be found at https://superverse.co/.",
+    "date_added": "2021-01-20T00:00:00.000Z",
+    "website": "https://superverse.co/",
+    "technical_doc": "https://docs.superverse.cool/"
+  },
+  {
+    "symbol": "RON",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png",
+    "name": "Ronin",
+    "description": "Ronin (RON) is a cryptocurrency launched in 2022. Ronin has a current supply of 1,000,000,000 with 654,239,687.9637812 in circulation. The last known price of Ronin is 0.58052208 USD and is down -2.65 over the last 24 hours. It is currently trading on 89 active market(s) with $5,641,985.32 traded over the last 24 hours. More information can be found at https://roninchain.com.",
+    "date_added": "2021-11-08T17:57:40.000Z",
+    "website": "https://roninchain.com",
+    "technical_doc": "https://docs.roninchain.com/basics/white-paper"
+  },
+  {
+    "symbol": "CHZ",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
+    "name": "Chiliz",
+    "description": "Chiliz (CHZ) is a cryptocurrency and operates on the Ethereum platform. Chiliz has a current supply of 9,639,490,378. The last known price of Chiliz is 0.03910229 USD and is down -2.14 over the last 24 hours. It is currently trading on 533 active market(s) with $28,642,887.23 traded over the last 24 hours. More information can be found at https://www.chiliz.com/.",
+    "date_added": "2019-07-01T00:00:00.000Z",
+    "website": "https://www.chiliz.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ETHFI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29814.png",
+    "name": "ether.fi",
+    "description": "ether.fi (ETHFI) is a cryptocurrency launched in 2023and operates on the Ethereum platform. ether.fi has a current supply of 1,000,000,000 with 322,090,617 in circulation. The last known price of ether.fi is 1.15069289 USD and is down -5.66 over the last 24 hours. It is currently trading on 254 active market(s) with $136,856,653.44 traded over the last 24 hours. More information can be found at https://www.ether.fi/.",
+    "date_added": "2024-03-13T06:06:39.000Z",
+    "website": "https://www.ether.fi/",
+    "technical_doc": "https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper"
+  },
+  {
+    "symbol": "SUN",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png",
+    "name": "Sun [New]",
+    "description": "Sun [New] (SUN) is a cryptocurrency launched in 2020and operates on the Tron20 platform. Sun [New] has a current supply of 19,900,730,000 with 19,263,767,437.928743 in circulation. The last known price of Sun [New] is 0.01915765 USD and is up 1.12 over the last 24 hours. It is currently trading on 176 active market(s) with $19,647,409.23 traded over the last 24 hours. More information can be found at https://sun.io/.",
+    "date_added": "2021-06-21T00:00:00.000Z",
+    "website": "https://sun.io/",
+    "technical_doc": "https://sun.io/docs/SUN_V3_Whitepaper_cn.pdf"
+  },
+  {
+    "symbol": "MOVE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png",
+    "name": "Movement",
+    "description": "Movement (MOVE) is a cryptocurrency launched in 2024and operates on the Ethereum platform. Movement has a current supply of 10,000,000,000 with 2,550,000,000 in circulation. The last known price of Movement is 0.1449863 USD and is down -4.62 over the last 24 hours. It is currently trading on 186 active market(s) with $46,891,362.56 traded over the last 24 hours. More information can be found at https://www.movementnetwork.xyz.",
+    "date_added": "2024-07-29T03:27:27.000Z",
+    "website": "https://www.movementnetwork.xyz",
+    "technical_doc": "https://docs.movementnetwork.xyz/"
+  },
+  {
+    "symbol": "W",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png",
+    "name": "Wormhole",
+    "description": "Wormhole (W) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Wormhole has a current supply of 10,000,000,000 with 4,610,406,172 in circulation. The last known price of Wormhole is 0.07838256 USD and is down -5.02 over the last 24 hours. It is currently trading on 343 active market(s) with $27,016,198.96 traded over the last 24 hours. More information can be found at https://wormhole.com.",
+    "date_added": "2024-03-29T04:25:44.000Z",
+    "website": "https://wormhole.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "GNO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png",
+    "name": "Gnosis",
+    "description": "Gnosis (GNO) is a cryptocurrency and operates on the Ethereum platform. Gnosis has a current supply of 2,999,934.74597423 with 2,638,346.84340213 in circulation. The last known price of Gnosis is 130.04571468 USD and is down -0.91 over the last 24 hours. It is currently trading on 227 active market(s) with $5,433,242.26 traded over the last 24 hours. More information can be found at https://gnosis.io/.",
+    "date_added": "2017-05-01T00:00:00.000Z",
+    "website": "https://gnosis.io/",
+    "technical_doc": "https://github.com/gnosis/research/blob/master/gnosis-whitepaper.pdf"
+  },
+  {
+    "symbol": "FTT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png",
+    "name": "FTX Token",
+    "description": "FTX Token (FTT) is a cryptocurrency launched in 2019and operates on the BNB Beacon Chain (BEP2) platform. FTX Token has a current supply of 328,895,103.81320699. The last known price of FTX Token is 1.04186308 USD and is down -3.08 over the last 24 hours. It is currently trading on 251 active market(s) with $9,644,536.40 traded over the last 24 hours.",
+    "date_added": "2019-07-31T00:00:00.000Z",
+    "website": null,
+    "technical_doc": "https://docs.google.com/document/d/1u5MOkENoWP8PGcjuoKqRkNP5Gl1LLRB9JvAHwffQ7ec/view"
+  },
+  {
+    "symbol": "AMP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png",
+    "name": "Amp",
+    "description": "Amp (AMP) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Amp has a current supply of 99,669,465,514.19133049 with 84,231,583,504.22394 in circulation. The last known price of Amp is 0.00403731 USD and is down -2.54 over the last 24 hours. It is currently trading on 169 active market(s) with $11,106,735.19 traded over the last 24 hours. More information can be found at https://amp.xyz.",
+    "date_added": "2020-09-08T00:00:00.000Z",
+    "website": "https://amp.xyz",
+    "technical_doc": "https://docs.ampera.xyz/ecosystem/amp-token/whitepaper"
+  },
+  {
+    "symbol": "TWT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png",
+    "name": "Trust Wallet Token",
+    "description": "Trust Wallet Token (TWT) is a cryptocurrency and operates on the BNB Smart Chain (BEP20) platform. Trust Wallet Token has a current supply of 999,668,148 with 416,649,900 in circulation. The last known price of Trust Wallet Token is 0.81058842 USD and is up 0.06 over the last 24 hours. It is currently trading on 286 active market(s) with $8,148,425.51 traded over the last 24 hours. More information can be found at https://trustwallet.com/.",
+    "date_added": "2020-07-30T00:00:00.000Z",
+    "website": "https://trustwallet.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "JST",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png",
+    "name": "JUST",
+    "description": "JUST (JST) is a cryptocurrency launched in 2020and operates on the Tron20 platform. JUST has a current supply of 9,900,000,000. The last known price of JUST is 0.03320897 USD and is down -2.49 over the last 24 hours. It is currently trading on 189 active market(s) with $43,495,760.54 traded over the last 24 hours. More information can be found at https://just.network/#/.",
+    "date_added": "2020-05-07T00:00:00.000Z",
+    "website": "https://just.network/#/",
+    "technical_doc": "https://www.just.network/docs/white_paper_en.pdf"
+  },
+  {
+    "symbol": "AKT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png",
+    "name": "Akash Network",
+    "description": "Akash Network (AKT) is a cryptocurrency . Akash Network has a current supply of 248,285,800.802151 with 248,285,794.661141 in circulation. The last known price of Akash Network is 1.32374988 USD and is down -3.99 over the last 24 hours. It is currently trading on 130 active market(s) with $10,888,842.12 traded over the last 24 hours. More information can be found at https://akash.network.",
+    "date_added": "2020-10-16T00:00:00.000Z",
+    "website": "https://akash.network",
+    "technical_doc": null
+  },
+  {
+    "symbol": "LUNC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png",
+    "name": "Terra Classic",
+    "description": "Terra Classic (LUNC) is a cryptocurrency launched in 2019. Terra Classic has a current supply of 6,496,937,030,460.135746 with 5,461,070,202,009.308922 in circulation. The last known price of Terra Classic is 0.0000593 USD and is down -2.15 over the last 24 hours. It is currently trading on 527 active market(s) with $7,746,709.12 traded over the last 24 hours. More information can be found at https://www.terra-classic.money.",
+    "date_added": "2019-07-26T00:00:00.000Z",
+    "website": "https://www.terra-classic.money",
+    "technical_doc": "https://classic-docs.terra.money"
+  },
+  {
+    "symbol": "BEAM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png",
+    "name": "Beam",
+    "description": "Beam (BEAM) is a cryptocurrency launched in 2023and operates on the Ethereum platform. Beam has a current supply of 62,434,008,330 with 49,466,004,168 in circulation. The last known price of Beam is 0.00643332 USD and is down -2.50 over the last 24 hours. It is currently trading on 191 active market(s) with $10,166,627.52 traded over the last 24 hours. More information can be found at https://www.onbeam.com/.",
+    "date_added": "2021-10-29T04:07:32.000Z",
+    "website": "https://www.onbeam.com/",
+    "technical_doc": "https://docs.onbeam.com/"
+  },
+  {
+    "symbol": "AXL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png",
+    "name": "Axelar",
+    "description": "Axelar (AXL) is a cryptocurrency launched in 2022and operates on the Ethereum platform. Axelar has a current supply of 1,204,003,430.385368 with 978,219,720.595395 in circulation. The last known price of Axelar is 0.32031546 USD and is down -3.14 over the last 24 hours. It is currently trading on 205 active market(s) with $9,353,199.54 traded over the last 24 hours. More information can be found at https://axelar.network/.",
+    "date_added": "2022-02-02T02:48:14.000Z",
+    "website": "https://axelar.network/",
+    "technical_doc": "https://axelar.network/wp-content/uploads/2021/07/axelar_whitepaper.pdf"
+  },
+  {
+    "symbol": "OM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png",
+    "name": "MANTRA",
+    "description": "MANTRA (OM) is a cryptocurrency and operates on the Ethereum platform. MANTRA has a current supply of 1,673,599,390.1491258 with 969,467,500.9489629 in circulation. The last known price of MANTRA is 0.31634407 USD and is down -4.49 over the last 24 hours. It is currently trading on 304 active market(s) with $56,626,960.02 traded over the last 24 hours. More information can be found at https://www.mantrachain.io.",
+    "date_added": "2020-08-11T00:00:00.000Z",
+    "website": "https://www.mantrachain.io",
+    "technical_doc": "https://docs.mantrachain.io/"
+  },
+  {
+    "symbol": "CTC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png",
+    "name": "Creditcoin",
+    "description": "Creditcoin (CTC) is a cryptocurrency launched in 2019. Creditcoin has a current supply of 549,564,264 with 454,416,053 in circulation. The last known price of Creditcoin is 0.68802646 USD and is up 6.72 over the last 24 hours. It is currently trading on 82 active market(s) with $17,280,585.85 traded over the last 24 hours. More information can be found at https://creditcoin.org.",
+    "date_added": "2020-01-31T00:00:00.000Z",
+    "website": "https://creditcoin.org",
+    "technical_doc": "https://www.creditcoin.org/white-paper"
+  },
+  {
+    "symbol": "SAFE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21585.png",
+    "name": "Safe",
+    "description": "Safe (SAFE) is a cryptocurrency and operates on the Ethereum platform. Safe has a current supply of 1,000,000,000 with 593,656,410 in circulation. The last known price of Safe is 0.5058805 USD and is down -4.56 over the last 24 hours. It is currently trading on 112 active market(s) with $17,100,649.23 traded over the last 24 hours. More information can be found at https://safe.global/.",
+    "date_added": "2024-04-22T21:43:00.000Z",
+    "website": "https://safe.global/",
+    "technical_doc": "https://docs.gnosis-safe.io/"
+  },
+  {
+    "symbol": "1INCH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+    "name": "1inch Network",
+    "description": "1inch Network (1INCH) is a cryptocurrency launched in 2020and operates on the Ethereum platform. 1inch Network has a current supply of 1,500,000,000 with 1,389,086,069.5726726 in circulation. The last known price of 1inch Network is 0.21249921 USD and is down -2.35 over the last 24 hours. It is currently trading on 541 active market(s) with $15,529,014.58 traded over the last 24 hours. More information can be found at https://1inch.io/.",
+    "date_added": "2020-12-25T00:00:00.000Z",
+    "website": "https://1inch.io/",
+    "technical_doc": "https://docs.1inch.io/"
+  },
+  {
+    "symbol": "MASK",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png",
+    "name": "Mask Network",
+    "description": "Mask Network (MASK) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Mask Network has a current supply of 100,000,000. The last known price of Mask Network is 2.96003522 USD and is up 2.64 over the last 24 hours. It is currently trading on 324 active market(s) with $199,930,079.48 traded over the last 24 hours. More information can be found at https://www.mask.io.",
+    "date_added": "2021-02-21T00:00:00.000Z",
+    "website": "https://www.mask.io",
+    "technical_doc": "https://masknetwork.medium.com/introducing-mask-network-maskbook-the-future-of-the-internet-5a973d874edd"
+  },
+  {
+    "symbol": "MEW",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30126.png",
+    "name": "cat in a dogs world",
+    "description": "cat in a dogs world (MEW) is a cryptocurrency launched in 2024and operates on the Solana platform. cat in a dogs world has a current supply of 88,888,888,888. The last known price of cat in a dogs world is 0.00322216 USD and is down -3.57 over the last 24 hours. It is currently trading on 279 active market(s) with $37,417,859.40 traded over the last 24 hours. More information can be found at https://mew.xyz/.",
+    "date_added": "2024-03-26T06:41:06.000Z",
+    "website": "https://mew.xyz/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "KSM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png",
+    "name": "Kusama",
+    "description": "Kusama (KSM) is a cryptocurrency launched in 2019. Kusama has a current supply of 16,589,651.98666307. The last known price of Kusama is 16.33259788 USD and is down -1.92 over the last 24 hours. It is currently trading on 271 active market(s) with $14,871,051.57 traded over the last 24 hours. More information can be found at https://kusama.network/.",
+    "date_added": "2019-12-12T00:00:00.000Z",
+    "website": "https://kusama.network/",
+    "technical_doc": "https://guide.kusama.network/docs/kusama-getting-started/"
+  },
+  {
+    "symbol": "DASH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+    "name": "Dash",
+    "description": "Dash (DASH) is a cryptocurrency launched in 2014. Users are able to generate DASH through the process of mining. Dash has a current supply of 12,285,914.87663933. The last known price of Dash is 21.66382656 USD and is down -2.68 over the last 24 hours. It is currently trading on 478 active market(s) with $35,352,990.15 traded over the last 24 hours. More information can be found at https://www.dash.org/.",
+    "date_added": "2014-02-14T00:00:00.000Z",
+    "website": "https://www.dash.org/",
+    "technical_doc": "https://docs.dash.org/"
+  },
+  {
+    "symbol": "CVX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png",
+    "name": "Convex Finance",
+    "description": "Convex Finance (CVX) is a cryptocurrency and operates on the Ethereum platform. Convex Finance has a current supply of 99,898,990.71127258 with 97,546,265.27914359 in circulation. The last known price of Convex Finance is 2.7519935 USD and is up 3.50 over the last 24 hours. It is currently trading on 262 active market(s) with $15,383,171.77 traded over the last 24 hours. More information can be found at https://www.convexfinance.com/.",
+    "date_added": "2021-05-18T00:00:00.000Z",
+    "website": "https://www.convexfinance.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "MINA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png",
+    "name": "Mina",
+    "description": "Mina (MINA) is a cryptocurrency launched in 2021. Mina has a current supply of 1,235,282,227.84003923. The last known price of Mina is 0.2106768 USD and is down -2.64 over the last 24 hours. It is currently trading on 183 active market(s) with $10,035,071.18 traded over the last 24 hours. More information can be found at https://minaprotocol.com/.",
+    "date_added": "2021-03-02T00:00:00.000Z",
+    "website": "https://minaprotocol.com/",
+    "technical_doc": "https://minaprotocol.com/docs"
+  },
+  {
+    "symbol": "PNUT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33788.png",
+    "name": "Peanut the Squirrel",
+    "description": "Peanut the Squirrel (PNUT) is a cryptocurrency launched in 2024and operates on the Solana platform. Peanut the Squirrel has a current supply of 999,852,562.222037. The last known price of Peanut the Squirrel is 0.26040188 USD and is down -6.36 over the last 24 hours. It is currently trading on 293 active market(s) with $91,710,595.73 traded over the last 24 hours. More information can be found at https://www.pnutsol.com/.",
+    "date_added": "2024-11-04T02:00:00.000Z",
+    "website": "https://www.pnutsol.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "MX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4041.png",
+    "name": "MX Token",
+    "description": "MX Token (MX) is a cryptocurrency and operates on the Ethereum platform. MX Token has a current supply of 416,185,834 with 94,310,834 in circulation. The last known price of MX Token is 2.65809623 USD and is down -0.40 over the last 24 hours. It is currently trading on 28 active market(s) with $10,420,218.29 traded over the last 24 hours. More information can be found at https://www.mexc.com.",
+    "date_added": "2019-09-24T00:00:00.000Z",
+    "website": "https://www.mexc.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "DCR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png",
+    "name": "Decred",
+    "description": "Decred (DCR) is a cryptocurrency launched in 2016. Users are able to generate DCR through the process of mining. Decred has a current supply of 16,832,294.15647034. The last known price of Decred is 14.98415899 USD and is down -1.53 over the last 24 hours. It is currently trading on 86 active market(s) with $3,931,047.63 traded over the last 24 hours. More information can be found at https://decred.org/.",
+    "date_added": "2016-02-10T00:00:00.000Z",
+    "website": "https://decred.org/",
+    "technical_doc": "https://docs.decred.org/"
+  },
+  {
+    "symbol": "ZRO",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26997.png",
+    "name": "LayerZero",
+    "description": "LayerZero (ZRO) is a cryptocurrency launched in 2024and operates on the Ethereum platform. LayerZero has a current supply of 1,000,000,000 with 110,000,000 in circulation. The last known price of LayerZero is 2.23358418 USD and is down -3.81 over the last 24 hours. It is currently trading on 333 active market(s) with $26,726,939.17 traded over the last 24 hours. More information can be found at https://layerzero.foundation/.",
+    "date_added": "2024-06-20T05:52:25.000Z",
+    "website": "https://layerzero.foundation/",
+    "technical_doc": "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+  },
+  {
+    "symbol": "SFP",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png",
+    "name": "SafePal",
+    "description": "SafePal (SFP) is a cryptocurrency launched in 2020and operates on the BNB Smart Chain (BEP20) platform. SafePal has a current supply of 500,000,000. The last known price of SafePal is 0.48433607 USD and is down -0.77 over the last 24 hours. It is currently trading on 237 active market(s) with $3,965,576.56 traded over the last 24 hours. More information can be found at https://www.safepal.com.",
+    "date_added": "2020-12-28T00:00:00.000Z",
+    "website": "https://www.safepal.com",
+    "technical_doc": "https://www.safepal.com/pub/SFP_Whitepaper.pdf?a=5"
+  },
+  {
+    "symbol": "TFUEL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png",
+    "name": "Theta Fuel",
+    "description": "Theta Fuel (TFUEL) is a cryptocurrency . Theta Fuel has a current supply of 6,961,305,955. The last known price of Theta Fuel is 0.03459366 USD and is down -4.50 over the last 24 hours. It is currently trading on 86 active market(s) with $4,846,935.89 traded over the last 24 hours. More information can be found at https://www.thetatoken.org.",
+    "date_added": "2019-03-28T00:00:00.000Z",
+    "website": "https://www.thetatoken.org",
+    "technical_doc": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf?v=1553657855.509"
+  },
+  {
+    "symbol": "GLM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1455.png",
+    "name": "Golem",
+    "description": "Golem (GLM) is a cryptocurrency launched in 2016and operates on the Ethereum platform. Golem has a current supply of 1,000,000,000. The last known price of Golem is 0.24016884 USD and is down -0.98 over the last 24 hours. It is currently trading on 216 active market(s) with $6,501,657.00 traded over the last 24 hours. More information can be found at https://golem.network/.",
+    "date_added": "2016-11-18T00:00:00.000Z",
+    "website": "https://golem.network/",
+    "technical_doc": "https://golem.network/doc/Golemwhitepaper.pdf"
+  },
+  {
+    "symbol": "NXPC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/36044.png",
+    "name": "NEXPACE",
+    "description": "NEXPACE (NXPC) is a cryptocurrency launched in 2025and operates on the BNB Smart Chain (BEP20) platform. NEXPACE has a current supply of 1,000,000,000 with 173,294,248 in circulation. The last known price of NEXPACE is 1.3695412 USD and is down -10.02 over the last 24 hours. It is currently trading on 142 active market(s) with $201,512,114.43 traded over the last 24 hours. More information can be found at https://msu.io.",
+    "date_added": "2025-03-17T06:30:59.000Z",
+    "website": "https://msu.io",
+    "technical_doc": "https://docs.nexpace.io/"
+  },
+  {
+    "symbol": "AI16Z",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34026.png",
+    "name": "ai16z",
+    "description": "ai16z (AI16Z) is a cryptocurrency and operates on the Solana platform. ai16z has a current supply of 1,099,998,565.37634714. The last known price of ai16z is 0.21375275 USD and is down -9.91 over the last 24 hours. It is currently trading on 270 active market(s) with $63,149,687.93 traded over the last 24 hours. More information can be found at https://elizaos.ai/.",
+    "date_added": "2024-11-17T23:08:14.000Z",
+    "website": "https://elizaos.ai/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "SNX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+    "name": "Synthetix",
+    "description": "Synthetix (SNX) is a cryptocurrency launched in 2018and operates on the Ethereum platform. Synthetix has a current supply of 343,889,850.0967736 with 343,466,216.99839868 in circulation. The last known price of Synthetix is 0.67313293 USD and is down -3.72 over the last 24 hours. It is currently trading on 667 active market(s) with $18,661,952.83 traded over the last 24 hours. More information can be found at https://www.synthetix.io/.",
+    "date_added": "2018-03-14T00:00:00.000Z",
+    "website": "https://www.synthetix.io/",
+    "technical_doc": "https://docs.synthetix.io/"
+  },
+  {
+    "symbol": "NOT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28850.png",
+    "name": "Notcoin",
+    "description": "Notcoin (NOT) is a cryptocurrency launched in 2023and operates on the TON platform. Notcoin has a current supply of 102,456,957,533.56. The last known price of Notcoin is 0.00223742 USD and is down -3.54 over the last 24 hours. It is currently trading on 235 active market(s) with $21,691,178.30 traded over the last 24 hours. More information can be found at https://notco.in/.",
+    "date_added": "2024-05-09T15:38:45.000Z",
+    "website": "https://notco.in/",
+    "technical_doc": "https://cdn.joincommunity.xyz/notcoin/Notcoin_Whitepaper.pdf"
+  },
+  {
+    "symbol": "ZIL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+    "name": "Zilliqa",
+    "description": "Zilliqa (ZIL) is a cryptocurrency launched in 2017. Users are able to generate ZIL through the process of mining. Zilliqa has a current supply of 20,268,617,518.32716724 with 19,585,662,092.61717 in circulation. The last known price of Zilliqa is 0.0115762 USD and is down -1.02 over the last 24 hours. It is currently trading on 378 active market(s) with $13,486,284.83 traded over the last 24 hours. More information can be found at https://www.zilliqa.com/.",
+    "date_added": "2018-01-25T00:00:00.000Z",
+    "website": "https://www.zilliqa.com/",
+    "technical_doc": "https://docs.zilliqa.com/whitepaper.pdf"
+  },
+  {
+    "symbol": "MOCA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/31526.png",
+    "name": "Moca Network",
+    "description": "Moca Network (MOCA) is a cryptocurrency and operates on the Ethereum platform. Moca Network has a current supply of 8,888,888,888 with 2,676,888,888.2 in circulation. The last known price of Moca Network is 0.08418956 USD and is down -2.23 over the last 24 hours. It is currently trading on 110 active market(s) with $31,079,451.30 traded over the last 24 hours. More information can be found at https://moca.network/.",
+    "date_added": "2024-07-04T07:14:36.000Z",
+    "website": "https://moca.network/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ASTR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "name": "Astar",
+    "description": "Astar (ASTR) is a cryptocurrency and operates on the Soneium platform. Astar has a current supply of 8,429,242,465 with 8,089,095,150 in circulation. The last known price of Astar is 0.02773636 USD and is up 2.94 over the last 24 hours. It is currently trading on 134 active market(s) with $9,446,736.33 traded over the last 24 hours. More information can be found at https://astar.network/.",
+    "date_added": "2021-10-19T09:53:03.000Z",
+    "website": "https://astar.network/",
+    "technical_doc": "https://docs.astar.network/"
+  },
+  {
+    "symbol": "QTUM",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png",
+    "name": "Qtum",
+    "description": "Qtum (QTUM) is a cryptocurrency . Qtum has a current supply of 107,822,406 with 105,671,459 in circulation. The last known price of Qtum is 2.05424951 USD and is down -1.32 over the last 24 hours. It is currently trading on 286 active market(s) with $43,194,471.10 traded over the last 24 hours. More information can be found at https://qtum.org/.",
+    "date_added": "2017-05-24T00:00:00.000Z",
+    "website": "https://qtum.org/",
+    "technical_doc": "https://qtumorg.s3.ap-northeast-2.amazonaws.com/Qtum_New_Whitepaper_en.pdf"
+  },
+  {
+    "symbol": "TOSHI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27750.png",
+    "name": "Toshi",
+    "description": "Toshi (TOSHI) is a cryptocurrency launched in 2023and operates on the Base platform. Toshi has a current supply of 420,690,000,000 with 408,069,300,000 in circulation. The last known price of Toshi is 0.00052914 USD and is down -7.47 over the last 24 hours. It is currently trading on 198 active market(s) with $15,474,245.35 traded over the last 24 hours. More information can be found at https://www.toshithecat.com/.",
+    "date_added": "2023-08-04T09:39:48.000Z",
+    "website": "https://www.toshithecat.com/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "BLUR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png",
+    "name": "Blur",
+    "description": "Blur (BLUR) is a cryptocurrency and operates on the Ethereum platform. Blur has a current supply of 3,000,000,000 with 2,364,829,059.3607306 in circulation. The last known price of Blur is 0.09098274 USD and is down -2.35 over the last 24 hours. It is currently trading on 305 active market(s) with $16,631,395.27 traded over the last 24 hours. More information can be found at https://blur.io/.",
+    "date_added": "2023-02-13T15:07:24.000Z",
+    "website": "https://blur.io/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ZK",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24091.png",
+    "name": "ZKsync",
+    "description": "ZKsync (ZK) is a cryptocurrency and operates on the zkSync Era platform. ZKsync has a current supply of 21,000,000,000 with 3,675,000,000 in circulation. The last known price of ZKsync is 0.05771616 USD and is down -1.55 over the last 24 hours. It is currently trading on 216 active market(s) with $32,505,671.06 traded over the last 24 hours. More information can be found at https://zksync.io/.",
+    "date_added": "2024-06-16T23:10:00.000Z",
+    "website": "https://zksync.io/",
+    "technical_doc": null
+  },
+  {
+    "symbol": "ROSE",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png",
+    "name": "Oasis",
+    "description": "Oasis (ROSE) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Oasis has a current supply of 10,000,000,000 with 7,385,836,099 in circulation. The last known price of Oasis is 0.02840486 USD and is down -5.58 over the last 24 hours. It is currently trading on 163 active market(s) with $9,034,467.74 traded over the last 24 hours. More information can be found at https://oasisprotocol.org/.",
+    "date_added": "2020-11-12T00:00:00.000Z",
+    "website": "https://oasisprotocol.org/",
+    "technical_doc": "https://docs.oasis.io/"
+  },
+  {
+    "symbol": "GIGA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30063.png",
+    "name": "Gigachad",
+    "description": "Gigachad (GIGA) is a cryptocurrency launched in 2024and operates on the Solana platform. Gigachad has a current supply of 9,603,935,545.16 with 9,302,411,888 in circulation. The last known price of Gigachad is 0.02212824 USD and is down -4.99 over the last 24 hours. It is currently trading on 195 active market(s) with $7,490,772.73 traded over the last 24 hours. More information can be found at https://www.gigachadsolana.com.",
+    "date_added": "2024-03-21T16:22:17.000Z",
+    "website": "https://www.gigachadsolana.com",
+    "technical_doc": null
+  },
+  {
+    "symbol": "VANA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34619.png",
+    "name": "Vana",
+    "description": "Vana (VANA) is a cryptocurrency and operates on the Ethereum platform. Vana has a current supply of 112,641,600 with 30,084,000 in circulation. The last known price of Vana is 6.93667378 USD and is down -1.37 over the last 24 hours. It is currently trading on 97 active market(s) with $53,388,166.62 traded over the last 24 hours. More information can be found at https://www.vana.org/.",
+    "date_added": "2024-12-13T12:20:10.000Z",
+    "website": "https://www.vana.org/",
+    "technical_doc": "https://docs.vana.org/docs/vana-whitepaper"
+  },
+  {
+    "symbol": "IOTX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+    "name": "IoTeX",
+    "description": "IoTeX (IOTX) is a cryptocurrency launched in 2018. IoTeX has a current supply of 9,441,368,983 with 9,441,368,979 in circulation. The last known price of IoTeX is 0.02180252 USD and is down -7.04 over the last 24 hours. It is currently trading on 259 active market(s) with $13,531,206.84 traded over the last 24 hours. More information can be found at https://www.iotex.io/.",
+    "date_added": "2018-05-25T00:00:00.000Z",
+    "website": "https://www.iotex.io/",
+    "technical_doc": "https://iotex.io/2.0"
+  },
+  {
+    "symbol": "ZRX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png",
+    "name": "0x Protocol",
+    "description": "0x Protocol (ZRX) is a cryptocurrency and operates on the Ethereum platform. 0x Protocol has a current supply of 1,000,000,000 with 848,396,562.89734384 in circulation. The last known price of 0x Protocol is 0.24067669 USD and is down -2.23 over the last 24 hours. It is currently trading on 408 active market(s) with $39,072,947.27 traded over the last 24 hours. More information can be found at http://0xprotocol.org/.",
+    "date_added": "2017-08-16T00:00:00.000Z",
+    "website": "http://0xprotocol.org/",
+    "technical_doc": "https://0xproject.com/pdfs/0x_white_paper.pdf"
+  },
+  {
+    "symbol": "TRAC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2467.png",
+    "name": "OriginTrail",
+    "description": "OriginTrail (TRAC) is a cryptocurrency launched in 2018and operates on the Ethereum platform. OriginTrail has a current supply of 500,000,000 with 499,846,955.602 in circulation. The last known price of OriginTrail is 0.40459701 USD and is down -3.93 over the last 24 hours. It is currently trading on 73 active market(s) with $2,955,902.90 traded over the last 24 hours. More information can be found at https://origintrail.io/.",
+    "date_added": "2018-01-25T00:00:00.000Z",
+    "website": "https://origintrail.io/",
+    "technical_doc": "https://origintrail.io/ecosystem/whitepaper"
+  },
+  {
+    "symbol": "BAT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+    "name": "Basic Attention Token",
+    "description": "Basic Attention Token (BAT) is a cryptocurrency launched in 2017and operates on the Ethereum platform. Basic Attention Token has a current supply of 1,500,000,000 with 1,495,668,356.95260575 in circulation. The last known price of Basic Attention Token is 0.13263028 USD and is down -1.54 over the last 24 hours. It is currently trading on 524 active market(s) with $10,179,295.18 traded over the last 24 hours. More information can be found at https://basicattentiontoken.org/.",
+    "date_added": "2017-06-01T00:00:00.000Z",
+    "website": "https://basicattentiontoken.org/",
+    "technical_doc": "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf"
+  },
+  {
+    "symbol": "COW",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png",
+    "name": "CoW Protocol",
+    "description": "CoW Protocol (COW) is a cryptocurrency launched in 2021and operates on the Ethereum platform. CoW Protocol has a current supply of 1,000,000,000 with 476,859,303.87331027 in circulation. The last known price of CoW Protocol is 0.40779937 USD and is down -1.94 over the last 24 hours. It is currently trading on 169 active market(s) with $46,907,886.40 traded over the last 24 hours. More information can be found at https://cow.fi.",
+    "date_added": "2022-04-01T08:42:05.000Z",
+    "website": "https://cow.fi",
+    "technical_doc": null
+  },
+  {
+    "symbol": "GAS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1785.png",
+    "name": "Gas",
+    "description": "Gas (GAS) is a cryptocurrency and operates on the Neo platform. Gas has a current supply of 64,992,331. The last known price of Gas is 2.99121269 USD and is down -0.82 over the last 24 hours. It is currently trading on 162 active market(s) with $6,285,087.11 traded over the last 24 hours. More information can be found at https://neo.org/.",
+    "date_added": "2017-07-06T00:00:00.000Z",
+    "website": "https://neo.org/",
+    "technical_doc": "http://docs.neo.org/en-us/"
+  },
+  {
+    "symbol": "MOODENG",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33093.png",
+    "name": "Moo Deng (moodengsol.com)",
+    "description": "Moo Deng (moodengsol.com) (MOODENG) is a cryptocurrency and operates on the Solana platform. Moo Deng (moodengsol.com) has a current supply of 989,971,791.17. The last known price of Moo Deng (moodengsol.com) is 0.19676872 USD and is down -5.81 over the last 24 hours. It is currently trading on 271 active market(s) with $79,894,870.70 traded over the last 24 hours. More information can be found at https://www.moodengsol.com/.",
+    "date_added": "2024-09-21T02:09:39.000Z",
+    "website": "https://www.moodengsol.com/",
+    "technical_doc": null
+  }
+]

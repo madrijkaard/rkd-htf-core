@@ -16,6 +16,7 @@ mod spy;
 mod swap;
 mod crypto_candidate;
 mod open_ai;
+mod crypto_metadata;
 
 use actix_cors::Cors;
 use actix_web::{App, HttpServer, http};

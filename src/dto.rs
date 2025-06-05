@@ -185,10 +185,28 @@ pub struct TradeMonitorItem {
     pub taker_buy_base_volume: f64,
     pub taker_buy_quote_volume: f64,
     pub is_active: bool,
+
+    pub logo: Option<String>,
+    pub name: Option<String>,
+    pub description: Option<String>,
+    pub date_added: Option<String>,
+    pub website: Option<String>,
+    pub technical_doc: Option<String>,
 }
 
 #[derive(Debug, Serialize)]
 pub struct ZoneCount {
     pub zone: String,
     pub count: usize,
+}
+
+#[derive(Debug, Serialize, Deserialize, Clone)]
+pub struct CryptoMetadata {
+    pub symbol: String,
+    pub logo: Option<String>,
+    pub name: Option<String>,
+    pub description: Option<String>,
+    pub date_added: Option<String>,
+    pub website: Option<String>,
+    pub technical_doc: Option<String>,
 }

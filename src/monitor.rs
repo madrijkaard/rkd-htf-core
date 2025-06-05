@@ -1,8 +1,9 @@
 use crate::blockchain::get_current_blockchain_symbols;
 use crate::config::Settings;
+use crate::crypto_metadata::get_crypto_metadata;
 use crate::dto::{Bias, Trade, TradeMonitorItem, TradeMonitorResponse, ZoneCount};
-use prettytable::{color, Attr, Cell, Row, Table};
 use chrono::Local;
+use prettytable::{color, Attr, Cell, Row, Table};
 
 pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorResponse {
     fn parse(value: &str) -> f64 {
@@ -29,7 +30,6 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
                 return Some(i);
             }
         }
-
         None
     }
 
@@ -103,36 +103,24 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
     let now = Local::now();
     println!("[{}] - Criptos monitoradas:", now.format("%Y-%m-%d %H:%M:%S"));
 
+    let metadata_list = get_crypto_metadata();
+    let active_symbols = get_current_blockchain_symbols();
     let mut table = Table::new();
     let show_details = settings.show_details_monitor;
+
     if show_details {
         table.add_row(Row::new(vec![
-            Cell::new("Symbol"),
-            Cell::new("Zone"),
-            Cell::new("24h"),
-            Cell::new("BTC"),
-            Cell::new("MA200"),
-            Cell::new("Ampl"),
-            Cell::new("Pos%"),
-            Cell::new("Volume"),
-            Cell::new("Quote Volume"),
-            Cell::new("Trades"),
-            Cell::new("Taker Base"),
-            Cell::new("Taker Quote"),
+            Cell::new("Symbol"), Cell::new("Zone"), Cell::new("24h"), Cell::new("BTC"), Cell::new("MA200"),
+            Cell::new("Ampl"), Cell::new("Pos%"), Cell::new("Volume"), Cell::new("Quote Volume"),
+            Cell::new("Trades"), Cell::new("Taker Base"), Cell::new("Taker Quote"),
         ]));
     } else {
         table.add_row(Row::new(vec![
-            Cell::new("Symbol"),
-            Cell::new("Zone"),
-            Cell::new("24h"),
-            Cell::new("BTC"),
-            Cell::new("MA200"),
+            Cell::new("Symbol"), Cell::new("Zone"), Cell::new("24h"), Cell::new("BTC"), Cell::new("MA200"),
         ]));
     }
 
-    let values: Vec<(
-        f64, f64, f64, f64, f64, f64, f64, f64, f64, f64,
-    )> = trades.iter().map(|t| {
+    let values: Vec<_> = trades.iter().map(|t| {
         let min = parse(&t.zone_min);
         let max = parse(&t.zone_max);
         let current = parse(&t.current_price);
@@ -182,7 +170,6 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
     let max_taker_quote = max_index(&taker_quote_col);
     let min_taker_quote = min_index(&taker_quote_col);
 
-    let active_symbols = get_current_blockchain_symbols();
     let mut json_items = vec![];
     let mut zone_counts = [0usize; 8];
 
@@ -230,6 +217,9 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
 
         table.add_row(Row::new(row));
 
+        let base_symbol = t.symbol.trim_end_matches("USDT");
+        let metadata = metadata_list.iter().find(|m| m.symbol.eq_ignore_ascii_case(base_symbol));
+
         json_items.push(TradeMonitorItem {
             symbol: t.symbol.clone(),
             zone: zone_index.map(|i| format!("Z{}", i + 1)),
@@ -244,6 +234,12 @@ pub fn monitor_cryptos(trades: &[Trade], settings: &Settings) -> TradeMonitorRes
             taker_buy_base_volume: taker_base_col[i],
             taker_buy_quote_volume: taker_quote_col[i],
             is_active: active_symbols.contains(&t.symbol),
+            logo: metadata.and_then(|m| m.logo.clone()),
+            name: metadata.and_then(|m| m.name.clone()),
+            description: metadata.and_then(|m| m.description.clone()),
+            date_added: metadata.and_then(|m| m.date_added.clone()),
+            website: metadata.and_then(|m| m.website.clone()),
+            technical_doc: metadata.and_then(|m| m.technical_doc.clone()),
         });
     }
 
